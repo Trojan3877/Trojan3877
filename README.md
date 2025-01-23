@@ -16,9 +16,9 @@ I'm a dedicated and driven software engineering and machine learning professiona
   🏆 *Futurist Scholarship Recipient ($32,000)*  
   🎓 *Expected Graduation: May 2027*  
 
-- **DeVry University** – Associate in Engineering Technology (Machine Learning & Design Techniques)  
-  🎓 *Expected Graduation: September 2025*  
-  Bachelor’s in Software Development (Expected: May 2026)
+- **DeVry University** – UnderGraduate Certification in Machine Learning & Design Techniques 
+  🎓 *Expected Graduation: May 2025*  
+  
 
 ## 🛠️ Certifications
 - CompTIA A+  
