@@ -1,7 +1,7 @@
 # Hi, I'm Corey Leath (@Trojan3877) 👋
 
 ## 🚀 About Me
-I'm a dedicated and driven software engineering and machine learning professional passionate about building cutting-edge technology solutions. Currently pursuing dual Bachelor's Degrees in Artificial Intelligence and Advancing Computer Science at the University of Advancing Technology (GPA: 3.93), I aim to contribute to advancing AI and software development through innovative projects and research.
+I'm a dedicated and driven software engineering, machine learning/ AI professional passionate about building cutting-edge technology solutions. Currently pursuing dual Bachelor's Degrees in Artificial Intelligence and Advancing Computer Science at the University of Advancing Technology (GPA: 3.93), I aim to contribute to advancing AI and software development through innovative projects and research.
 
 ## 💻 Technical Skills
 - **Programming Languages:** Python, C++, Java, C#, Golang, JavaScript, Rust
