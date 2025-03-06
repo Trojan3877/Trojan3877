@@ -52,4 +52,4 @@ Explore all my projects [here](https://github.com/Trojan3877).
 He/Him
 
 ## 🎉 Fun Fact
-I’m relocating to Tempe, AZ, in May 2025, and I love exploring the intersection of technology, creativity, and problem-solving to build impactful solutions.
+Full-time online student at UAT. Love warm weather, College football, Technology, AI, Traveling, Foodie, Gaming, Animals, Country Music, Animal Planet, Movies, Rock music, Christian Music. 
