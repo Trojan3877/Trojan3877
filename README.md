@@ -18,7 +18,8 @@ I'm a dedicated and driven upcoming AI Engineer, machine learning/ AI profession
 
 - **DeVry University** – UnderGraduate Certification in Machine Learning & Design Techniques 
   🎓 *Expected Graduation: May 2025*  
-  
+  DeVry University - Associates in Science in Engineering technology
+  Expected Graduation: July 2025*
 
 ## 🛠️ Certifications
 - CompTIA A+  
