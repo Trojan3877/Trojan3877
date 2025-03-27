@@ -48,8 +48,8 @@ Explore all my projects [here](https://github.com/Trojan3877).
 - LinkedIn: [Corey Leath](https://linkedin.com/corey-leath)  
 - GitHub: [Trojan3877](https://github.com/Trojan3877)
 
-## 😄 Pronouns
-He/Him
+
+
 
 ## 🎉 Fun Fact
 Full-time online student at UAT. Love warm weather, College football, Technology, AI, Traveling, Foodie, Gaming, Animals, Country Music, Animal Planet, Movies, Rock music, Christian Music. 
