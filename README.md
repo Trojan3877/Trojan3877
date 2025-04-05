@@ -3,13 +3,34 @@
 ## 🚀 About Me
 I'm a dedicated and driven upcoming AI Engineer, machine learning/ AI professional passionate about building cutting-edge technology solutions. Currently pursuing dual Bachelor's Degrees in Artificial Intelligence and Advancing Computer Science at the University of Advancing Technology (GPA: 3.95), I aim to contribute to advancing AI and software development through innovative projects and research. My goal is to pursue my MSSE(Molecular science and software enginerring) as well as my PHD in AI to pursue a career as an AI Engineer/AI Researcher, ML Engineer. 
 
-## 💻 Technical Skills
-- **Programming Languages:** Python, C++, Java, C#, Golang, JavaScript, Rust
-- **Machine Learning Frameworks:** TensorFlow, PyTorch, Scikit-learn
-- **Cloud Platforms:** AWS
-- **Tools & Technologies:** GitHub, Codespaces, Wireshark
-- **Databases:** SQL
-- **Specialties:** Data Structures, Algorithms, Big Data
+💻 Technical Skills
+Programming Languages: Python, C++, Java, C#, Golang, JavaScript, Rust
+
+Machine Learning & AI Frameworks: TensorFlow, PyTorch, Scikit-learn, OpenCV, Keras
+
+Cloud & DevOps: AWS (Lambda, S3, EC2), Azure (Basics), GitHub Actions, Docker (Intro)
+
+Tools & Technologies: GitHub, Codespaces, Wireshark, Visual Studio, VS Code, Jupyter, Postman
+
+Databases & Big Data: SQL, NoSQL (MongoDB), Snowflake, Data Lakes (basic), ETL Pipelines
+
+Core CS Foundations: Data Structures & Algorithms, Object-Oriented Programming, Computer Architecture
+
+Specialties:
+
+AI Engineering & Deep Learning
+
+Big Data Analytics
+
+Software Engineering Principles
+
+Advanced Cloud Integration
+
+Ethical Hacking & Cybersecurity Fundamentals (UAT curriculum)
+
+Capstone & Research Projects in Artificial Intelligence
+
+
 
 ## 🎓 Education
 - **University of Advancing Technology (UAT)** – Dual Bachelor's Degrees in Artificial Intelligence and Advancing Computer Science  
