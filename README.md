@@ -66,7 +66,7 @@ Explore all my projects [here](https://github.com/Trojan3877).
 - Open-source contributions in software engineering and cloud-based development.
 
 ## 📫 How to Reach Me
-- Email: [coreyleath10@gmail.com](mailto:coreyleath10@gmail.com)  
+- Email: [coreyleath10@gmail.com](mailto:coreyleath10@gmail.com) Corey22blue@hotmail.com 
 - LinkedIn: [Corey Leath](https://linkedin.com/corey-leath)  
 - GitHub: [Trojan3877](https://github.com/Trojan3877)
 
