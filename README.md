@@ -4,7 +4,7 @@
 I'm a dedicated and driven upcoming AI Engineer, machine learning/ AI professional passionate about building cutting-edge technology solutions. Currently pursuing dual Bachelor's Degrees in Artificial Intelligence and Advancing Computer Science at the University of Advancing Technology (GPA: 3.95), I aim to contribute to advancing AI and software development through innovative projects and research. My goal is to pursue my MSSE(Molecular science and software enginerring) as well as my PHD in AI to pursue a career as an AI Engineer/AI Researcher, ML Engineer. 
 
 💻 Technical Skills
-Programming Languages: Python, C++, Java, C#, Golang, JavaScript, Rust
+Programming Languages: Python, C++, Java, C#, Golang, JavaScript, 
 
 Machine Learning & AI Frameworks: TensorFlow, PyTorch, Scikit-learn, OpenCV, Keras
 
