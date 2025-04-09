@@ -44,10 +44,9 @@ Capstone & Research Projects in Artificial Intelligence
 
 ## 🛠️ Certifications
 - CompTIA A+  
-- CompTIA Security+  
-- AWS Machine Learning Specialty *(In Progress)*  
-- Google Professional Machine Learning Engineer *(In Progress)*  
-- CCNA *(Planned for Junior Year)*  
+- CompTIA Security+   
+- AWS Cloud Practioner (In Progress)  
+ 
 
 ## 📂 Notable Projects
 - **Advanced Data Structures Project:** Python-based implementation demonstrating mastery of algorithms and data structures.  
