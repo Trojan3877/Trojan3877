@@ -1,7 +1,20 @@
-# Hi, I'm Corey Leath (@Trojan3877) 👋
+💻 Aspiring Machine Learning Engineer | Software Engineer | Cloud AI/ML | AI Ethics Advocate
 
-## 🚀 About Me
-I'm a dedicated and driven upcoming AI Engineer, machine learning/ AI professional passionate about building cutting-edge technology solutions. Currently pursuing dual Bachelor's Degrees in Artificial Intelligence and Advancing Computer Science at the University of Advancing Technology (GPA: 3.95), I aim to contribute to advancing AI and software development through innovative projects and research. My goal is to pursue my MSSE(Molecular science and software enginerring) as well as my PHD in AI to pursue a career as an AI Engineer/AI Researcher, ML Engineer. 
+I am an undergraduate student pursuing a B.S. in Artificial Intelligence & Advancing Computer Science (UAT), concurrently completing an A.S. in Engineering Technology (Machine Learning specialization). My passion is building production-grade AI/ML systems that drive real-world business impact — with a focus on cloud-native, scalable, and ethical AI.
+
+My public GitHub portfolio (github.com/Trojan3877) demonstrates advanced AI/ML, Data Engineering, System Design, and C++/Python projects, including:
+
+✅ AWS SageMaker + Snowflake ML Pipeline: Financial Fraud Detection
+✅ AI-Vehicle Safety Classifier (C++ + Python)
+✅ NYC Finance Data Engineering Project
+✅ SafeSight-AI (Computer Vision for Healthcare/Assistive Tech)
+✅ AI-Powered Business Application Lab
+✅ TrojanChat App (System Design + Fullstack)
+
+Currently completing the Interview Kickstart ML Engineering Bootcamp, and planning to pursue a Master’s in AI after graduation.
+I am targeting AI/ML Engineering internships, AI residencies, and Big Tech/FinTech Software Engineering roles.
+
+
 
 💻 Technical Skills
 Programming Languages: Python, C++, Java, C#, Golang, JavaScript, 
