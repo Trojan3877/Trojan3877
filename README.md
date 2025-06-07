@@ -19,7 +19,7 @@
 • **NYC Finance Data Engineering** – End-to-end ETL & analytics on NYC open finance data  
 • **AWS-SageMaker-Snowflake ML Pipeline** – Helm-orchestrated ML workflow with GitOps
 
-🎯 Career goal: L6+ ML Engineer at OpenAI ∣ Anthropic ∣ DeepMind  
+🎯 Career goal: L6+ ML Engineer at OpenAI ∣ Anthropic ∣ DeepMind | Netflix | Meta | XAI | Google |
 📬 Connect or collaborate:  
 • corey22blue@hotmail.com  
 • coreyleath10@gmail.com  
