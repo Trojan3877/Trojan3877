@@ -26,5 +26,75 @@ Hi, I’m Corey Leath (Trojan3877)
 • coreyleath10@gmail.com  
 • [LinkedIn](https://linkedin.com/in/corey-leath)  
 
+# 🔬 Corey Leath’s Top 6 Machine Learning Repositories
+
+Welcome to my core portfolio of Machine Learning and AI Engineering projects. These repositories showcase my growing expertise in supervised learning, unsupervised learning, deep learning, cloud pipelines, and quantitative analysis.
+
+Each project below includes the core ML algorithms implemented or suitable for the task, with badges denoting the model type.
+
+---
+
+## 📊 1. LLM Quant Assistant
+[![Python](https://img.shields.io/badge/Language-Python-blue)]() [![ML Algorithm](https://img.shields.io/badge/Model-Regression%2C%20KNN%2C%20Boosting-green)]()
+
+**Core ML Algorithms:**
+- ✅ Linear Regression (price prediction)
+- ✅ K-Nearest Neighbors (pattern similarity)
+- ✅ Gradient Boosting (portfolio forecasting)
+
+---
+
+## 😀 2. Facial Emotion Recognition System
+[![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)]() [![ML Algorithm](https://img.shields.io/badge/Model-CNN%2C%20KMeans%2C%20Boosting-orange)]()
+
+**Core ML Algorithms:**
+- ✅ Convolutional Neural Networks (deep learning backbone)
+- ✅ K-Means Clustering (unsupervised feature grouping)
+- ✅ Gradient Boosting (tabular benchmark)
+
+---
+
+## 🚗 3. AI Vehicle Safety Classifier
+[![C++](https://img.shields.io/badge/Language-C++-lightgrey)]() [![ML Algorithm](https://img.shields.io/badge/Model-RandomForest%2C%20KNN%2C%20Boosting-brightgreen)]()
+
+**Core ML Algorithms:**
+- ✅ Random Forest (tabular safety classification)
+- ✅ K-Nearest Neighbors (incident similarity)
+- ✅ Gradient Boosting (boosted safety predictions)
+
+---
+
+## ⚡ 4. Energy-Demand-Forecasting-DevMLOps
+[![CI/CD](https://img.shields.io/badge/Workflow-CI%2FCD-blueviolet)]() [![ML Algorithm](https://img.shields.io/badge/Model-Regression%2C%20RandomForest%2C%20Boosting-yellow)]()
+
+**Core ML Algorithms:**
+- ✅ Linear Regression (time-based forecasting)
+- ✅ Random Forest (multi-variable regression)
+- ✅ Gradient Boosting (advanced time-aware modeling)
+
+---
+
+## ☁️ 5. AWS-SageMaker-Snowflake ML Pipeline
+[![Cloud](https://img.shields.io/badge/Cloud-AWS%20SageMaker-informational)]() [![ML Algorithm](https://img.shields.io/badge/Model-RandomForest%2C%20Boosting%2C%20KMeans-blue)]()
+
+**Core ML Algorithms:**
+- ✅ Random Forest (cloud-optimized classifier)
+- ✅ Gradient Boosting (via SageMaker XGBoost)
+- ✅ K-Means Clustering (energy user grouping)
+
+---
+
+## 📈 6. Algo-Quant-Backtester
+[![Quant](https://img.shields.io/badge/Domain-Quantitative%20Finance-purple)]() [![ML Algorithm](https://img.shields.io/badge/Model-Regression%2C%20KMeans%2C%20KNN%2C%20RandomForest-lightblue)]()
+
+**Core ML Algorithms:**
+- ✅ Linear Regression (strategy return prediction)
+- ✅ K-Means (cluster strategies)
+- ✅ Random Forest (ensemble modeling)
+- ✅ K-Nearest Neighbors (market behavior similarity)
+
+---
+
+🔗 Visit my GitHub: [Trojan3877](https://github.com/Trojan3877)
 
 
