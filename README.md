@@ -19,7 +19,7 @@ Hi, I’m Corey Leath (Trojan3877)
 • **NYC Finance Data Engineering** – End-to-end ETL & analytics on public NYC finance data (Spark, Snowflake)  
 • **AWS-SageMaker-Snowflake ML Pipeline** – Helm-orchestrated ML workflow (Terraform, Ansible, GitOps)  
 
-🎯 Career goal: L6 + ML Engineer at OpenAI ∣ Anthropic ∣ DeepMind ∣ Netflix ∣ Meta ∣ Google  
+🎯 Career goal: L6 + ML/AI Engineer at OpenAI ∣ Anthropic ∣ DeepMind ∣ Netflix ∣ Meta ∣ Google | Microsoft | XAI | WAYMO | FinTech | Stripe |  
 
 📬 Connect or collaborate:  
 • corey22blue@hotmail.com  
