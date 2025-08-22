@@ -25,6 +25,41 @@ Hi, I’m Corey Leath (Trojan3877)
 • corey22blue@hotmail.com  
 • coreyleath10@gmail.com  
 • [LinkedIn](https://linkedin.com/in/corey-leath)  
+# Facial Emotion Recognition System (FER)
+
+> Real-time classification of facial expressions with a simple API, reproducible metrics, and deployment-ready scaffolding.
+
+## Results (at a glance)
+| Metric       | Value | Notes                              |
+|-------------:|------:|------------------------------------|
+| Accuracy     | 0.00  | FER2013 test split (7 classes)     |
+| F1 (macro)   | 0.00  | class-balanced report              |
+| Latency (p50)| 0 ms  | CPU, 224×224 RGB, batch=1          |
+
+> Replace with your actual numbers after running `python scripts/eval.py`.
+
+---
+
+## Quickstart
+
+```bash
+# 1) Setup (recommended: Python 3.11)
+python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+pip install -r requirements-dev.txt
+
+# 2) Run unit tests
+pytest -q
+
+# 3) Evaluate (prints Accuracy/F1 and saves confusion matrix)
+python scripts/eval.py --data data/fer2013 --weights models/fer_model.pt --img-size 224
+
+# 4) (Optional) Start API
+uvicorn src.app.main:app --host 0.0.0.0 --port 8080
+# Health:   http://localhost:8080/health
+# Metrics:  http://localhost:8080/metrics   (Prometheus format)
+# Predict:  POST http://localhost:8080/predict (multipart/form-data: file=@image.jpg)
 
 # 🔬 Corey Leath’s Top 6 Machine Learning Repositories
 
