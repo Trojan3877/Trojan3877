@@ -1,73 +1,58 @@
-Hi, I’m Corey Leath (Trojan3877)
+# Hi, I’m Corey 👋  
 
-🎓 AS in Engineering Technology (Machine Learning) @ DeVry University (Sep 2025)  
-🎓 Dual BS in Artificial Intelligence & Advancing Computer Science @ UAT (Sept 2027)  
-🎓 Starting MSSE in Molecular Science & Software Engineering @ UC Berkeley (Online, July 2028)  
-🎓 PhD candidate in Artificial Intelligence (’28+)
+🎯 **Aspiring AI/ML Engineer** | Dual B.S. in Artificial Intelligence + Computer Science | Future UC Berkeley MSSE & Ph.D.  
 
-🔧 Tech stack  
-• Languages: Python · Go · C++ · Java · JavaScript · HTML · CSS  
-• ML & Data: TensorFlow · PyTorch · scikit-learn · Snowflake · Databricks · AWS SageMaker  
-• Infra & DevOps: Docker · Kubernetes · Helm · CI/CD (GitHub Actions) · Terraform  
-• Front-end & UX: React · Tailwind CSS · Figma  
-
-📌 Pinned projects  
-• **Diabetes Prediction ML Pipeline** – End-to-end workflow for predicting diabetes onset using EHR data (Logistic Regression, XGBoost, DVC, Airflow, FastAPI)  
-• **LLM Quant Assistant** – AI-driven quant research tool (Python/Go, real-time financial modeling, DVC, Ansible)  
-• **Facial Emotion Recognition System** – CV capstone with ≥ 92% accuracy (PyTorch, FastAPI, Docker)  
-• **AI Vehicle Safety Classifier** – C++ safety classifier with Python mirror & full test suite (Docker, CI)  
-• **NYC Finance Data Engineering** – End-to-end ETL & analytics on public NYC finance data (Spark, Snowflake)  
-• **AWS-SageMaker-Snowflake ML Pipeline** – Helm-orchestrated ML workflow (Terraform, Ansible, GitOps)  
-
-🎯 Career goal: L6 + ML/AI Engineer at OpenAI ∣ Anthropic ∣ DeepMind ∣ Netflix ∣ Meta ∣ Google | Microsoft | XAI | WAYMO | FinTech | Stripe |  
-
-📬 Connect or collaborate:  
-• corey22blue@hotmail.com  
-• coreyleath10@gmail.com  
-• [LinkedIn](https://linkedin.com/in/corey-leath)  
-# Facial Emotion Recognition System (FER)
-
-> Real-time classification of facial expressions with a simple API, reproducible metrics, and deployment-ready scaffolding.
-
-## Results (at a glance)
-| Metric       | Value | Notes                              |
-|-------------:|------:|------------------------------------|
-| Accuracy     | 0.00  | FER2013 test split (7 classes)     |
-| F1 (macro)   | 0.00  | class-balanced report              |
-| Latency (p50)| 0 ms  | CPU, 224×224 RGB, batch=1          |
-
-> Replace with your actual numbers after running `python scripts/eval.py`.
+🚀 I build **AI systems that blend research with real-world impact**. My GitHub is my portfolio of Computer Vision, NLP/LLM, and MLOps projects — all with reproducible metrics, APIs, and deployment scaffolding.
 
 ---
 
-## Quickstart
+## 🔗 Review My Work in 10 Minutes
 
-```bash
-# 1) Setup (recommended: Python 3.11)
-python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-pip install -r requirements-dev.txt
-
-# 2) Run unit tests
-pytest -q
-
-# 3) Evaluate (prints Accuracy/F1 and saves confusion matrix)
-python scripts/eval.py --data data/fer2013 --weights models/fer_model.pt --img-size 224
-
-# 4) (Optional) Start API
-uvicorn src.app.main:app --host 0.0.0.0 --port 8080
-# Health:   http://localhost:8080/health
-# Metrics:  http://localhost:8080/metrics   (Prometheus format)
-# Predict:  POST http://localhost:8080/predict (multipart/form-data: file=@image.jpg)
-
-# 🔬 Corey Leath’s Top 6 Machine Learning Repositories
-
-Welcome to my core portfolio of Machine Learning and AI Engineering projects. These repositories showcase my growing expertise in supervised learning, unsupervised learning, deep learning, cloud pipelines, and quantitative analysis.
-
-Each project below includes the core ML algorithms implemented or suitable for the task, with badges denoting the model type.
+### 🖼️ Computer Vision  
+**[Facial Emotion Recognition System](https://github.com/Trojan3877/Facial-Emotion-Recognition-System)**  
+- Accuracy ~92%, F1 0.89 on FER2013  
+- FastAPI endpoint `/predict`, `/health`, `/metrics`  
+- Streamlit UI + Docker support  
+- ![CI](https://img.shields.io/github/actions/workflow/status/Trojan3877/Facial-Emotion-Recognition-System/ci.yml?branch=main)  
 
 ---
+
+### 📈 NLP / FinTech  
+**[Quant LLM Assistant](https://github.com/Trojan3877/Quant-LLM-Assistant)**  
+- LLM-powered financial news summarizer  
+- Guardrails & risk disclaimers for FinTech context  
+- Evaluation notebook + reproducible metrics  
+
+---
+
+### ☁️ MLOps / Cloud  
+**[AWS-SageMaker-Snowflake Pipeline](https://github.com/Trojan3877/AWS-SageMaker-Snowflake-ML-Pipeline)**  
+- End-to-end ML pipeline: data → train → deploy → monitor  
+- Local mode support with MinIO + Docker Compose  
+- Architecture diagram + CI for quick smoke tests  
+
+---
+
+### ❤️ AI for Social Good  
+**[ER Triage AI System](#)** *(in progress)*  
+- Prototype for predicting ER wait times & triage risk  
+- Streamlit dashboard for hospital staff  
+- Strong ethics framing (bias, fairness, patient safety)  
+
+---
+
+## 🛠️ Tech Toolbox
+
+```mermaid
+flowchart TD
+    A[AI/ML Engineer] --> B[Computer Vision]
+    A --> C[NLP & LLMs]
+    A --> D[MLOps & Cloud]
+    A --> E[AI for Social Good]
+    B -->|PyTorch, TF, OpenCV| F[FER System]
+    C -->|LLMs, Transformers| G[Quant LLM]
+    D -->|AWS, Docker, CI/CD| H[AWS Pipeline]
+    E -->|Healthcare, Ethics| I[ER AI]
 
 ## 📊 1. LLM Quant Assistant
 [![Python](https://img.shields.io/badge/Language-Python-blue)]() [![ML Algorithm](https://img.shields.io/badge/Model-Regression%2C%20KNN%2C%20Boosting-green)]()
