@@ -1,61 +1,59 @@
-# Hi, I’m Corey 👋  
 
-🎯 **Aspiring AI/ML Engineer** | Dual B.S. in Artificial Intelligence + Computer Science | Future UC Berkeley MSSE & Ph.D.  
 
-🚀 I build **AI systems that blend research with real-world impact**. My GitHub is my portfolio of Computer Vision, NLP/LLM, and MLOps projects — all with reproducible metrics, APIs, and deployment scaffolding.
+👋 Hi, I’m Corey 
 
----
+🎓 Academic Path
 
-## 🔗 Review My Work in 10 Minutes
+Bachelor of Science in Software Development (Web & Mobile Applications) – DeVry University
 
-### 🖼️ Computer Vision  
-**[Facial Emotion Recognition System](https://github.com/Trojan3877/Facial-Emotion-Recognition-System)**  
-- Accuracy ~92%, F1 0.89 on FER2013  
-- FastAPI endpoint `/predict`, `/health`, `/metrics`  
-- Streamlit UI + Docker support  
-- ![CI](https://img.shields.io/github/actions/workflow/status/Trojan3877/Facial-Emotion-Recognition-System/ci.yml?branch=main)  
+Future Master’s in AI Engineering – University of Pennsylvania
 
----
+Future Ph.D. in Artificial Intelligence – research in advanced machine learning, LLMs, and AI systems
 
-### 📈 NLP / FinTech  
-**[Quant LLM Assistant](https://github.com/Trojan3877/Quant-LLM-Assistant)**  
-- LLM-powered financial news summarizer  
-- Guardrails & risk disclaimers for FinTech context  
-- Evaluation notebook + reproducible metrics  
 
----
+💻 GitHub Portfolio Highlights
 
-### ☁️ MLOps / Cloud  
-**[AWS-SageMaker-Snowflake Pipeline](https://github.com/Trojan3877/AWS-SageMaker-Snowflake-ML-Pipeline)**  
-- End-to-end ML pipeline: data → train → deploy → monitor  
-- Local mode support with MinIO + Docker Compose  
-- Architecture diagram + CI for quick smoke tests  
+Facial Emotion Recognition System – CNN-based model with accuracy metrics & visualizations
 
----
+Quant LLM Assistant – Hugging Face + LangChain powered assistant with retrieval-augmented generation
 
-### ❤️ AI for Social Good  
-**[ER Triage AI System](#)** *(in progress)*  
-- Prototype for predicting ER wait times & triage risk  
-- Streamlit dashboard for hospital staff  
-- Strong ethics framing (bias, fairness, patient safety)  
+Disease Prediction Capstone – ML pipeline with preprocessing, EDA, training, and evaluation
 
----
+AI Vehicle Safety Classifier – Python + C++ dual implementation with performance comparisons
 
-## 🛠️ Tech Toolbox
 
-```mermaid
-flowchart TD
-    A[AI/ML Engineer] --> B[Computer Vision]
-    A --> C[NLP & LLMs]
-    A --> D[MLOps & Cloud]
-    A --> E[AI for Social Good]
-    B -->|PyTorch, TF, OpenCV| F[FER System]
-    C -->|LLMs, Transformers| G[Quant LLM]
-    D -->|AWS, Docker, CI/CD| H[AWS Pipeline]
-    E -->|Healthcare, Ethics| I[ER AI]
+🛠️ Skills & Tools
 
-## 📊 1. LLM Quant Assistant
-[![Python](https://img.shields.io/badge/Language-Python-blue)]() [![ML Algorithm](https://img.shields.io/badge/Model-Regression%2C%20KNN%2C%20Boosting-green)]()
+Programming: Python, C++, Java, C#, SQL
+
+AI/ML Frameworks: TensorFlow, PyTorch, scikit-learn, LangChain, Hugging Face
+
+DevOps & Cloud: AWS, Docker, CI/CD, Ansible
+
+Data Visualization: Matplotlib, Seaborn, Plotly
+
+
+🚀 Career Goals
+
+I am pursuing a career as an AI/ML Engineer, with a focus on:
+
+Building production-ready AI systems
+
+Advancing LLMs, Deep Learning, and System Design
+
+Contributing to Big Tech & Big AI companies such as OpenAI, NVIDIA, Meta, and Google DeepMind
+
+
+🌍 Purpose
+
+I aim to use AI not only to advance technology but to change lives — from improving healthcare and infrastructure to creating safe, ethical, and impactful AI systems.
+
+📫 Connect with me on LinkedIn
+
+Linkedin.com/corey-leath 
+
+
+
 
 **Core ML Algorithms:**
 - ✅ Linear Regression (price prediction)
