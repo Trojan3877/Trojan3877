@@ -62,7 +62,7 @@ Linkedin.com/corey-leath
 
 ---
 
-## 😀 2. Facial Emotion Recognition System
+## 😀  Facial Emotion Recognition System
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)]() [![ML Algorithm](https://img.shields.io/badge/Model-CNN%2C%20KMeans%2C%20Boosting-orange)]()
 
 **Core ML Algorithms:**
@@ -72,7 +72,7 @@ Linkedin.com/corey-leath
 
 ---
 
-## 🚗 3. AI Vehicle Safety Classifier
+## 🚗  AI Vehicle Safety Classifier
 [![C++](https://img.shields.io/badge/Language-C++-lightgrey)]() [![ML Algorithm](https://img.shields.io/badge/Model-RandomForest%2C%20KNN%2C%20Boosting-brightgreen)]()
 
 **Core ML Algorithms:**
@@ -82,7 +82,7 @@ Linkedin.com/corey-leath
 
 ---
 
-## ⚡ 4. Energy-Demand-Forecasting-DevMLOps
+## ⚡  Energy-Demand-Forecasting-DevMLOps
 [![CI/CD](https://img.shields.io/badge/Workflow-CI%2FCD-blueviolet)]() [![ML Algorithm](https://img.shields.io/badge/Model-Regression%2C%20RandomForest%2C%20Boosting-yellow)]()
 
 **Core ML Algorithms:**
@@ -92,7 +92,7 @@ Linkedin.com/corey-leath
 
 ---
 
-## ☁️ 5. AWS-SageMaker-Snowflake ML Pipeline
+## ☁️  AWS-SageMaker-Snowflake ML Pipeline
 [![Cloud](https://img.shields.io/badge/Cloud-AWS%20SageMaker-informational)]() [![ML Algorithm](https://img.shields.io/badge/Model-RandomForest%2C%20Boosting%2C%20KMeans-blue)]()
 
 **Core ML Algorithms:**
@@ -102,7 +102,7 @@ Linkedin.com/corey-leath
 
 ---
 
-## 📈 6. Algo-Quant-Backtester
+## 📈  Algo-Quant-Backtester
 [![Quant](https://img.shields.io/badge/Domain-Quantitative%20Finance-purple)]() [![ML Algorithm](https://img.shields.io/badge/Model-Regression%2C%20KMeans%2C%20KNN%2C%20RandomForest-lightblue)]()
 
 **Core ML Algorithms:**
