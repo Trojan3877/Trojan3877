@@ -50,7 +50,8 @@ I aim to use AI not only to advance technology but to change lives — from impr
 
 📫 Connect with me on LinkedIn
 
-Linkedin.com/corey-leath 
+https://www.Linkedin.com/in/corey-leath
+
 
 
 
