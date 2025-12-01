@@ -1,130 +1,149 @@
+<!-- Modern & Engaging GitHub Profile for Corey Leath -->
 
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trojan3877/brand-assets/main/ai-banner.png" width="100%">
+</p>
 
-👋 Hi, I’m Corey 
+<h1 align="center">👋 Hi, I’m <strong>Corey Leath</strong></h1>
+<h3 align="center">AI/ML Engineer • Full-Stack Developer • Future AI Researcher • Quant Engineering Aspirant</h3>
 
-🎓 Academic Path
-
-Bachelor of Science in Software Development (Web & Mobile Applications) – DeVry University
-
-Future Master’s in AI Engineering – University of Pennsylvania
-
-Future Ph.D. in Artificial Intelligence – research in advanced machine learning, LLMs, and AI systems
-
-
-💻 GitHub Portfolio Highlights
-
-Facial Emotion Recognition System – CNN-based model with accuracy metrics & visualizations
-
-Quant LLM Assistant – Hugging Face + LangChain powered assistant with retrieval-augmented generation
-
-Disease Prediction Capstone – ML pipeline with preprocessing, EDA, training, and evaluation
-
-AI Vehicle Safety Classifier – Python + C++ dual implementation with performance comparisons
-
-
-🛠️ Skills & Tools
-
-Programming: Python, C++, Java, C#, SQL
-
-AI/ML Frameworks: TensorFlow, PyTorch, scikit-learn, LangChain, Hugging Face
-
-DevOps & Cloud: AWS, Docker, CI/CD, Ansible
-
-Data Visualization: Matplotlib, Seaborn, Plotly
-
-
-🚀 Career Goals
-
-I am pursuing a career as an AI/ML Engineer, with a focus on:
-
-Building production-ready AI systems
-
-Advancing LLMs, Deep Learning, and System Design
-
-Contributing to Big Tech & Big AI companies such as OpenAI, NVIDIA, Meta, and Google DeepMind
-
-
-🌍 Purpose
-
-I aim to use AI not only to advance technology but to change lives — from improving healthcare and infrastructure to creating safe, ethical, and impactful AI systems.
-
-📫 Connect with me on LinkedIn
-
-https://www.Linkedin.com/in/corey-leath
-
-
-
-
-
-**Core ML Algorithms:**
-- ✅ Linear Regression (price prediction)
-- ✅ K-Nearest Neighbors (pattern similarity)
-- ✅ Gradient Boosting (portfolio forecasting)
+<p align="center">
+  <a href="https://github.com/Trojan3877"><img src="https://img.shields.io/badge/GitHub-Trojan3877-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:Corey22blue@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/corey-leath"><img src="https://img.shields.io/badge/LinkedIn-Corey_Leath-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
 
 ---
 
-## 😀  Facial Emotion Recognition System
-[![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)]() [![ML Algorithm](https://img.shields.io/badge/Model-CNN%2C%20KMeans%2C%20Boosting-orange)]()
+# 🎓 About Me
 
-**Core ML Algorithms:**
-- ✅ Convolutional Neural Networks (deep learning backbone)
-- ✅ K-Means Clustering (unsupervised feature grouping)
-- ✅ Gradient Boosting (tabular benchmark)
+My name is **Corey Leath**, and I am an **AI/ML Engineer + Full-Stack Developer** working toward a long-term career in advanced AI systems, Machine Learning Engineering, and Quantitative Algorithmic Research.
 
----
+I am currently on a **multi-degree academic pathway** to become a top-tier engineer and researcher:
 
-## 🚗  AI Vehicle Safety Classifier
-[![C++](https://img.shields.io/badge/Language-C++-lightgrey)]() [![ML Algorithm](https://img.shields.io/badge/Model-RandomForest%2C%20KNN%2C%20Boosting-brightgreen)]()
-
-**Core ML Algorithms:**
-- ✅ Random Forest (tabular safety classification)
-- ✅ K-Nearest Neighbors (incident similarity)
-- ✅ Gradient Boosting (boosted safety predictions)
-
----
-
-## ⚡  Energy-Demand-Forecasting-DevMLOps
-[![CI/CD](https://img.shields.io/badge/Workflow-CI%2FCD-blueviolet)]() [![ML Algorithm](https://img.shields.io/badge/Model-Regression%2C%20RandomForest%2C%20Boosting-yellow)]()
-
-**Core ML Algorithms:**
-- ✅ Linear Regression (time-based forecasting)
-- ✅ Random Forest (multi-variable regression)
-- ✅ Gradient Boosting (advanced time-aware modeling)
+### 🧠 **Academic Pathway**
+- 🎓 **Associate of Science — Engineering Technology (Machine Learning & Design Techniques) – Completed**
+- 🎓 **Bachelor of Science — Software Development (Web & Mobile Applications) – In Progress (11 months remaining)**
+- 🎓 **Master’s in AI Engineering — University of Pennsylvania (Upcoming, 2026 Intake)**
+- 🎓 **Ph.D. in Artificial Intelligence — Goal after Master’s**
+  
+My mission is to build high-impact systems at the intersection of:
+- **AI Engineering**
+- **Machine Learning & Deep Learning**
+- **Full-Stack Application Development**
+- **Quantitative Finance & Data Engineering**
+- **MLOps + Cloud Deployment**
 
 ---
 
-## ☁️  AWS-SageMaker-Snowflake ML Pipeline
-[![Cloud](https://img.shields.io/badge/Cloud-AWS%20SageMaker-informational)]() [![ML Algorithm](https://img.shields.io/badge/Model-RandomForest%2C%20Boosting%2C%20KMeans-blue)]()
+# 🚀 What I’ve Built So Far
 
-**Core ML Algorithms:**
-- ✅ Random Forest (cloud-optimized classifier)
-- ✅ Gradient Boosting (via SageMaker XGBoost)
-- ✅ K-Means Clustering (energy user grouping)
+Here are the projects that define who I am as an engineer — modular, production-minded, and deeply technical.
 
 ---
 
-## 📈  Algo-Quant-Backtester
-[![Quant](https://img.shields.io/badge/Domain-Quantitative%20Finance-purple)]() [![ML Algorithm](https://img.shields.io/badge/Model-Regression%2C%20KMeans%2C%20KNN%2C%20RandomForest-lightblue)]()
+## 📈 **Algo-Quant-Backtester — Professional Quant System**
+**Tech:** Python, Pandas, Numpy, MLFlow, CI/CD, Docker  
+**Status:** 🚀 Production-Ready
 
-**Core ML Algorithms:**
-- ✅ Linear Regression (strategy return prediction)
-- ✅ K-Means (cluster strategies)
-- ✅ Random Forest (ensemble modeling)
-- ✅ K-Nearest Neighbors (market behavior similarity)
+✔ Professional trading backtester  
+✔ SMA, RSI, MACD, ML-based strategies  
+✔ Full PyTest suite + GitHub Actions  
+✔ Sharpe/Sortino/MDD/CAGR metrics  
+✔ Modular, industry-style architecture  
 
----
-
-🔗 Visit my GitHub: [Trojan3877](https://github.com/Trojan3877)
-
----
-
-👉 Next steps:  
-- Create the special repo: `Trojan3877/Trojan3877` and add this as `README.md`.  
-- Replace placeholders (`your-linkedin`, repo names/links if slightly different).  
-- This instantly makes your GitHub profile look like a **curated portfolio site**.
+👉 **Repo:** https://github.com/Trojan3877/Algo-Quant-Backtester-
 
 ---
 
-⚡ Question for you: do you want me to now generate the **individual README upgrades** for each repo (FER, Quant LLM, AWS Pipeline, ER Triage) one by one — each with Results tables, Quickstart blocks, and sample visuals baked in?
+## 😃 **Facial Emotion Recognition System — CV Capstone**
+**Tech:** TensorFlow, Keras, OpenCV, CNNs  
+**Status:** ✔ Completed
+
+✔ Custom CNN + transfer learning  
+✔ Confusion matrix, accuracy, precision/recall  
+✔ Real-time prediction support  
+✔ clean modular ML pipeline  
+
+👉 **Repo:** https://github.com/Trojan3877/Facial-Emotion-Recognition-System
+
+---
+
+## 🩺 **Diabetes Prediction ML Pipeline**
+**Tech:** Random Forest, XGBoost, Pandas  
+**Status:** ✔ Completed
+
+✔ Full EDA → preprocessing → train → evaluate  
+✔ ROC Curve, Feature Importance, Metrics  
+✔ Clean ML workflow  
+
+👉 **Repo:** https://github.com/Trojan3877/Disease_Prediction_Capstone
+
+---
+
+## 🚗 **AI Vehicle Safety Classifier — C++ + Python**
+**Tech:** C++, Python, ML  
+**Status:** ✔ Polished
+
+✔ C++ implementation  
+✔ Python implementation  
+✔ Evaluation metrics  
+✔ Production-style project structure  
+
+👉 **Repo:** https://github.com/Trojan3877/AI-Vehicle-Safety-Classifier
+
+---
+
+## 🏈 **TrojanChat — Full-Stack Chat Application**
+**Tech:** C++, React Native, Firebase (Auth + Real-time DB)  
+**Status:** 🛠 In Development
+
+✔ USC-themed real-time chat app for fans  
+✔ Mobile app architecture  
+✔ Backend + authentication  
+✔ Event-based messaging system  
+
+👉 **Repo:** https://github.com/Trojan3877/TrojanChat
+
+---
+
+# 🧰 Skills & Technologies
+
+### 🧠 Machine Learning / AI
+Python • TensorFlow • PyTorch • Scikit-Learn  
+CNNs • RNNs • Transfer Learning • MLOps • MLFlow
+
+### 📊 Quant & Data Engineering
+Pandas • NumPy • Financial Indicators  
+Backtesting • Time-Series Forecasting • Risk Metrics
+
+### 💻 Software Engineering
+C++ • Java • JavaScript • TypeScript • SQL • OOP  
+System Design • MVC • REST APIs
+
+### ⚙️ Backend & DevOps
+FastAPI • Flask • Docker • CI/CD • GitHub Actions • Firebase • Linux
+
+### 🌐 Front-End & Mobile
+HTML/CSS • React Native • UI Flow Design
+
+---
+
+# 📫 Contact Me
+
+📧 **Email:** Corey22blue@hotmail.com  
+🔗 **LinkedIn:** linkedin.com/in/corey-leath  
+🐙 **GitHub:** github.com/Trojan3877  
+
+---
+
+# 🌟 My Mission
+
+To rise above adversity and build intelligent systems that transform industries, elevate human capability, and open doors for others through AI and engineering excellence.
+
+---
+
+<p align="center">⭐ “Built from passion, powered by discipline, backed by AI.” ⭐</p>
 
 
