@@ -1,5 +1,10 @@
 <!-- Modern & Engaging GitHub Profile for Corey Leath -->
+📘 Universal Basic Income in the Age of Artificial Intelligence
 
+A Research Perspective on Automation, Economics, and Human Dignity
+
+This repository contains my research paper exploring the accelerating impact of Artificial Intelligence on the global workforce and the growing need for Universal Basic Income (UBI) as a stabilizing economic policy. The paper integrates expert insights from leading AI researchers, economists, and technologists while also including my personal reflections as an AI/ML Engineer.
+/paper/UBI_AI_Paper_With_Quotes.pdf ./UBI_AI_Paper_With_Quotes.pdf
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trojan3877/brand-assets/main/ai-banner.png" width="100%">
