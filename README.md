@@ -20,8 +20,6 @@ AI experts widely agree that the scale of automation will require more than trad
 
 Robotics, large language models, and autonomous systems will continue to advance. While some fields—such as advanced engineering, cybersecurity, robotics research, quantum computing, and theoretical sciences—will remain deeply human-driven due to their complexity, most routine or operational tasks are on a trajectory toward full automation. The World Economic Forum predicts that 44% of all workplace skills will be disrupted within five years, largely due to AI and automation (WEF, 2023). This suggests that economic systems must shift from labor-based income assumptions to a model that supports citizens in a post-labor economy.
 
-🌟 From the Author
-
 In my view, UBI is not just a policy proposal—it is a realistic and necessary response to the inevitable direction of AI. As someone pursuing a future in AI and engineering, I see firsthand how quickly machine learning models, agents, and automation tools are evolving. Within the next decade, I believe society will shift into a reality where most non-technical jobs and many technical ones are automated, leaving only deep STEM fields—AI engineering, robotics, physics, cybersecurity, quantitative research, and advanced software architecture—requiring long-term human expertise.
 
 For everyone else, a stable economic system will be needed so people can live with dignity as AI becomes the primary driver of productivity. UBI is the only solution that both protects citizens and ensures the benefits of AI are shared broadly—not just concentrated among the wealthiest corporations. My hope is for a future where AI empowers humanity, and UBI becomes the foundation that allows people to thrive in an automated society.
