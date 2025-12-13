@@ -41,27 +41,116 @@ For everyone else, a stable economic system will be needed so people can live wi
 
 # 🎓 About Me
 
-My name is **Corey Leath**, and I am an **AI/ML Engineer + Full-Stack Developer** working toward a long-term career in advanced AI systems, Machine Learning Engineering, and Quantitative Algorithmic Research.
 
-I am currently on a **multi-degree academic pathway** to become a top-tier engineer and researcher:
-
-### 🧠 **Academic Pathway**
-- 🎓 **Associate of Science — Engineering Technology (Machine Learning & Design Techniques) – Completed**
-- 🎓 **Bachelor of Science — Software Development (Web & Mobile Applications) – In Progress (11 months remaining)**
-- 🎓 **Master’s in AI Engineering — University of Pennsylvania (Upcoming, 2026 Intake)**
-- 🎓 **Ph.D. in Artificial Intelligence — Goal after Master’s**
-  
-My mission is to build high-impact systems at the intersection of:
-- **AI Engineering**
-- **Machine Learning & Deep Learning**
-- **Full-Stack Application Development**
-- **Quantitative Finance & Data Engineering**
-- **MLOps + Cloud Deployment**
 
 ---
 
 # 🚀 What I’ve Built So Far
+# 👋 Hi, I'm Corey Leath (Trojan3877)
 
+🚀 **AI / Machine Learning Engineer | Software Engineer | MLOps & Systems Enthusiast**  
+🎓 Senior Undergraduate · Future Graduate Student (AI / ML)  
+📍 United States · Open to Remote & Hybrid Roles
+
+---
+
+## 🧠 About Me
+I’m an aspiring **AI / Machine Learning Engineer** with a strong focus on **production-grade systems**, not just theory.  
+My work blends **machine learning, software engineering, data pipelines, MLOps, and system design**, with the goal of building **scalable, real-world AI solutions**.
+
+I actively maintain and improve my GitHub portfolio to **L5–L6 engineering quality**, aligning with **Big Tech and Big AI** expectations.
+
+---
+
+## 📊 GitHub Snapshot (Live Stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&rank_icon=github&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact)
+
+**Public Repos:** 27  
+**Total Stars:** ⭐ ~190  
+**Followers:** 7  
+**Primary Focus Areas:** AI · ML · Computer Vision · Quant Systems · DevOps · MLOps
+
+---
+
+## 🏆 Portfolio Grade (Current)
+**Overall GitHub Portfolio Grade:** **A- / B+ (Internship-Ready)**
+
+**Strengths**
+- ✅ Strong project breadth (AI, ML, CV, Quant, Full-Stack, Systems)
+- ✅ Clear academic + career narrative
+- ✅ Advanced tooling exposure (CI/CD, ML pipelines, metrics, Docker)
+- ✅ Multiple capstone-style repositories
+
+**In Progress to Reach A / A+**
+- 🔧 More standardized metrics (`metrics.md`)
+- 🔧 Deeper test coverage & CI signals
+- 🔧 One fully deployed public demo
+
+---
+
+## 📌 Featured Projects (Pinned)
+
+### 🔹 AI Vehicle Safety Classifier
+- Machine learning–based vehicle risk assessment
+- Research-style metrics & evaluation
+- Python & C++ comparison
+
+### 🔹 Facial Emotion Recognition System
+- Computer Vision (CNN-based)
+- Modular ML pipeline
+- Focus on real-world inference & evaluation
+
+### 🔹 Algo-Quant Backtester
+- Quantitative finance strategy evaluation
+- Backtesting framework with metrics
+- Designed for extensibility
+
+### 🔹 Disease Prediction ML Pipeline
+- End-to-end ML workflow
+- Data preprocessing, training, evaluation
+- Clean modular architecture
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- Python · C++ · Java · SQL · Bash
+
+**ML / AI**
+- PyTorch · TensorFlow · scikit-learn  
+- Computer Vision · CNNs · Transformers (in progress)
+
+**MLOps / DevOps**
+- Docker · GitHub Actions · CI/CD  
+- MLflow · Metrics Tracking  
+- Linux · Shell Scripting
+
+**Data & Systems**
+- REST APIs · Modular Pipelines  
+- System Design · Scalable Architectures
+
+---
+
+## 🎯 Current Goals
+- 🎓 Finish undergraduate degree with strong GPA  
+- 🧪 Push all pinned repos to **L5/L6 quality**
+- 🧠 Add LLM + RAG + Agentic workflows to select projects
+- 💼 Secure **AI / ML Internship** heading into graduate school
+
+---
+
+## 🤝 Let’s Connect
+- 💼 **LinkedIn:** (add link)
+- 🧠 **GitHub:** https://github.com/Trojan3877
+- 📫 Open to collaboration, internships, and research-driven engineering work
+
+---
+
+⭐ *If you’re a recruiter or engineer reviewing this profile:*  
+This portfolio reflects **hands-on, production-minded AI engineering**, not just coursework.
 Here are the projects that define who I am as an engineer — modular, production-minded, and deeply technical.
 
 ---
