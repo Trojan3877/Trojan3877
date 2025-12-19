@@ -13,6 +13,9 @@
 🔥 **1,600+ Commits in the Last Year**  
 🧠 **Primary Domains:** AI • Machine Learning • Computer Vision • Quant Systems • DevOps • MLOps  
 🐍 **Primary Language:** Python (82%)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=react&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Trojan3877&theme=react&hide_border=true)
 
 ### 📈 Language Breakdown
 - **Python:** 82.0%  
