@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 Career Focus
+
 I am actively preparing for **AI / ML Engineering internships and graduate-level roles**, with an emphasis on:
 - End-to-end ML pipelines
 - Model evaluation & metrics
@@ -45,7 +45,6 @@ Facial Emotion Recognition System
 Diabetes_Prediction_Capstone
 👉 Clean ML workflow, preprocessing, evaluation
 
-## 🧠 Recruiter Summary
 
 I am a highly motivated Software Developer and aspiring AI/ML Engineer with a strong focus on
 **practical implementation over theory**. My GitHub reflects:
