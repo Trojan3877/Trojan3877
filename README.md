@@ -1,10 +1,3 @@
-# 👋 Corey Leath | AI / ML Engineer in Training
-
-🚀 Building production-style AI, ML, and Systems projects with real-world impact  
-🎓 Software Development (Web & Mobile) + Engineering Technology (ML & Design Techniques)  
-📍 United States | Open to Internships & Graduate-Level Roles  
-
----
 
 ## 🚀 GitHub Activity & Impact
 
@@ -17,44 +10,52 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Trojan3877&theme=react&hide_border=true)
 
-### 📈 Language Breakdown
-- **Python:** 82.0%  
-- **JavaScript:** 5.4%  
-- **Jupyter Notebook:** 4.0%  
-- **C#:** 3.5%  
-- **HCL:** 2.8%  
-- **Makefile:** 2.3%
+🎓 Senior Undergraduate | Software Development (Web & Mobile Applications)
+🤖 AI / ML Engineering Focus | Backend & Platform Systems
+📍 Cleveland, Ohio
 
----
+I’m a senior undergraduate software developer focused on building real, end-to-end systems, not just class assignments. My work blends software engineering fundamentals with applied AI/ML, emphasizing clean architecture, scalability, and production-ready code.
 
+I actively build projects using Python, PyTorch, TensorFlow, Docker, FastAPI, SQL, and CI/CD, with hands-on experience across machine learning pipelines, recommendation systems, backend APIs, and data-driven applications.
 
-I am actively preparing for **AI / ML Engineering internships and graduate-level roles**, with an emphasis on:
-- End-to-end ML pipelines
-- Model evaluation & metrics
-- System design & scalability
-- Production-minded engineering practices
+🧠 What I’m Working On
 
-My repositories prioritize **clarity, documentation, and measurable results** over toy examples.
+AI & Machine Learning projects (training, evaluation, deployment-ready structure)
 
-TrojanChat
-👉 System design, architecture, scalability, product thinking
+Backend services and APIs for ML-powered applications
 
-Facial Emotion Recognition System
-👉 Computer Vision + metrics + real ML pipeline
+Recommendation systems and data pipelines
 
-Diabetes_Prediction_Capstone
-👉 Clean ML workflow, preprocessing, evaluation
+Clean, testable, well-documented codebases
 
+🛠️ Tech Stack
 
-I am a highly motivated Software Developer and aspiring AI/ML Engineer with a strong focus on
-**practical implementation over theory**. My GitHub reflects:
+Languages: Python, SQL
+ML / AI: PyTorch, TensorFlow, Hugging Face
+Backend: FastAPI, REST APIs
+DevOps: Docker, CI/CD (GitHub Actions)
+Data: Pandas, NumPy
+Systems: Linux, Git, Cloud fundamentals
 
-- Consistent long-term contribution (1,600+ commits/year)
-- Strong Python-based AI/ML development
-- Experience across ML, computer vision, quant systems, and backend engineering
-- Emphasis on clean code, documentation, and reproducibility
+🎯 Career Focus
 
-I am currently seeking **AI / ML Engineering internships and graduate-level opportunities**
-where I can contribute to real-world systems while continuing to grow under strong mentorship.
+I’m actively seeking Software Engineering Intern, AI / Machine Learning Engineering Intern, or Platform / Backend Intern roles.
 
+I’ve been referred to Microsoft Explore through professional networking and am preparing for a Master’s in AI Engineering (UPenn). My goal is to gain hands-on industry experience while continuing to build impactful systems.
+
+📂 Featured Projects
+
+🔹 DeepSequence Recommender – Sequence-based recommendation system
+🔹 AI / ML Pipelines – Data → Training → Evaluation workflows
+🔹 Backend APIs – ML-backed services with clean architecture
+
+👉 See pinned repositories below for detailed implementations.
+
+📫 Let’s Connect
+
+LinkedIn: https://www.linkedin.com/in/coreyleath
+
+GitHub: https://github.com/Trojan3877
+
+⭐ If you’re a recruiter or engineer looking for a motivated junior engineer who learns fast and ships working systems, I’d love for you to explore my work.
 
