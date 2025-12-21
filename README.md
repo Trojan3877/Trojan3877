@@ -7,11 +7,10 @@
 🧠 **Primary Domains:** AI • Machine Learning • Computer Vision • Quant Systems • DevOps • MLOps  
 🐍 **Primary Language:** Python (82%)
 
-<!-- Live GitHub Activity Stats -->
+[![Profile Views](https://komarev.com/ghpvc/?username=Trojan3877)](https://github.com/Trojan3877)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical)
-
-<!-- Live Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical)
+
 
 
 🎓 Senior Undergraduate | Software Development (Web & Mobile Applications)
