@@ -6,9 +6,13 @@
 🔥 **1,600+ Commits in the Last Year**  
 🧠 **Primary Domains:** AI • Machine Learning • Computer Vision • Quant Systems • DevOps • MLOps  
 🐍 **Primary Language:** Python (82%)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=react&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Trojan3877&theme=react&hide_border=true)
+<!-- Live GitHub Activity Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical)
+
+<!-- Live Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical)
+
 
 🎓 Senior Undergraduate | Software Development (Web & Mobile Applications)
 🤖 AI / ML Engineering Focus | Backend & Platform Systems
