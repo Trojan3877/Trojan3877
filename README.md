@@ -4,24 +4,14 @@
 🔭 Senior undergrad in Software Development  
 💻 Building scalable AI systems & full-stack apps
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Trojan3877&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=tokyo-night)
 
-## 📈 GitHub Activity & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical" />
-</p>
 
-- ⭐ Strong public contribution activity
-- 🔥 Frequent commits in AI, ML, systems
-- 📌 Top languages include Python, TypeScript, JavaScript
-- 🧠 Portfolio targeted at backend, AI, and full-stack roles
 
-![Streak stats](https://streak-stats.demolab.com?user=Trojan3877)
 
 
 
