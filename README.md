@@ -1,15 +1,27 @@
+# Corey Leath | AI & Software Engineer
 
-## 🚀 GitHub Activity & Impact
+🚀 Aspiring AI & Platform Engineer  
+🔭 Senior undergrad in Software Development  
+💻 Building scalable AI systems & full-stack apps
 
-📦 **27 Public Repositories**  
-⭐ **~190 Total Stars**  
-🔥 **1,600+ Commits in the Last Year**  
-🧠 **Primary Domains:** AI • Machine Learning • Computer Vision • Quant Systems • DevOps • MLOps  
-🐍 **Primary Language:** Python (82%)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical" />
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Trojan3877)](https://github.com/Trojan3877)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical)
+## 📈 GitHub Activity & Skills
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical" />
+</p>
+
+- ⭐ Strong public contribution activity
+- 🔥 Frequent commits in AI, ML, systems
+- 📌 Top languages include Python, TypeScript, JavaScript
+- 🧠 Portfolio targeted at backend, AI, and full-stack roles
+
+![Streak stats](https://streak-stats.demolab.com?user=Trojan3877)
 
 
 
