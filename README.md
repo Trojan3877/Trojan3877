@@ -1,10 +1,10 @@
+
 # Corey Leath | AI & Software Engineer
 
 🚀 Aspiring AI & Platform Engineer  
 🔭 Senior undergrad in Software Development  
 💻 Building scalable AI systems & full-stack apps
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Corey%20Leath%20%7C%20AI%20%26%20Platform%20Engineer&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Building%20Scalable%20AI%20Systems%20%26%20Production%20Platforms&descAlignY=60&descSize=16)
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Trojan3877?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/Trojan3877?style=for-the-badge"/>
