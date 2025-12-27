@@ -3,10 +3,18 @@
 🚀 Aspiring AI & Platform Engineer  
 🔭 Senior undergrad in Software Development  
 💻 Building scalable AI systems & full-stack apps
-## 📊 GitHub Activity
-![GitHub followers](https://img.shields.io/github/followers/Trojan3877?label=Followers&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Trojan3877?label=Total%20Stars&style=for-the-badge)
-![Repos](https://img.shields.io/github/repos/Trojan3877?label=Public%20Repos&style=for-the-badge)
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=dark" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Trojan3877&theme=dark" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Trojan3877?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Trojan3877?style=for-the-badge"/>
+</p>
+
 
 
 Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=tokyo-night)
