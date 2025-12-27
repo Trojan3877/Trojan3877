@@ -4,9 +4,15 @@
 🔭 Senior undergrad in Software Development  
 💻 Building scalable AI systems & full-stack apps
 ## 📊 GitHub Activity
-![Corey Leath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=Trojan3877&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=dark" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Trojan3877&theme=dark" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=dark" height="165"/>
+</p>
+
 
 
  Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=tokyo-night)
