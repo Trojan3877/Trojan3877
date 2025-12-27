@@ -5,6 +5,8 @@
 💻 Building scalable AI systems & full-stack apps
 
 📊 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Corey%20Leath%20%7C%20AI%20%26%20Platform%20Engineer&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Building%20Scalable%20AI%20Systems%20%26%20Production%20Platforms&descAlignY=60&descSize=16)
+![Consistency Score](https://img.shields.io/badge/Consistency%20Score-High%20(85%25)-0ea5e9?style=for-the-badge)
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trojan3877&theme=github_dark)
 
 [👉 View full contribution graph on GitHub](https://github.com/Trojan3877)
