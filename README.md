@@ -1,13 +1,19 @@
 
-# Corey Leath | AI & Software Engineer
+## 👋 Corey Leath — Aspiring AI & Platform Engineer
 
-🚀 Aspiring AI & Platform Engineer  
-🔭 Senior undergrad in Software Development  
-💻 Building scalable AI systems & full-stack Applications 
-![Portfolio Grade](https://img.shields.io/badge/Portfolio%20Grade-A--success?style=for-the-badge) src="https://img.shields.io/github/followers/Trojan3877?style=for-the-badge"/>
-  <img
-![L3-L4 Track](https://img.shields.io/badge/Track-L3--L4%20Engineer-7c3aed?style=for-the-badge)
-![Internship Ready](https://img.shields.io/badge/Status-Internship%20Ready-22c55e?style=for-the-badge)
+Building scalable AI systems & full-stack applications.
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Trojan3877?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Trojan3877?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/Trojan3877?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Portfolio%20Grade-A--0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Internship%20Ready-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Track-L3--L4%20Engineer-7c3aed?style=for-the-badge" />
+</p>
 
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trojan3877&theme=github_dark)
 
