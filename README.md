@@ -1,6 +1,5 @@
 
 ## 👋 Corey Leath — Aspiring AI & Platform Engineer
-
 Building scalable AI systems & full-stack applications.
 
 <p align="center">
