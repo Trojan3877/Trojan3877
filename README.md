@@ -6,7 +6,6 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Trojan3877?label=Followers&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/Trojan3877?label=Total%20Stars&style=for-the-badge)
 ![Public Repos](https://img.shields.io/github/repos/Trojan3877?label=Public%20Repos&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Trojan3877/Trojan3877?label=Last%20Commit&style=for-the-badge)
 📊 
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trojan3877&theme=github_dark)
 
