@@ -4,18 +4,12 @@
 🔭 Senior undergrad in Software Development  
 💻 Building scalable AI systems & full-stack apps
 ## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=dark" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Trojan3877&theme=dark" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=dark" height="165"/>
-</p>
+![GitHub followers](https://img.shields.io/github/followers/Trojan3877?label=Followers&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Trojan3877?label=Total%20Stars&style=for-the-badge)
+![Repos](https://img.shields.io/github/repos/Trojan3877?label=Public%20Repos&style=for-the-badge)
 
 
-
- Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=tokyo-night)
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=tokyo-night)
 
 
 <p align="center">
