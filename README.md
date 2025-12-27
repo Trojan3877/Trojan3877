@@ -7,7 +7,10 @@
 ![GitHub Stars](https://img.shields.io/github/stars/Trojan3877?label=Total%20Stars&style=for-the-badge)
 ![Public Repos](https://img.shields.io/github/repos/Trojan3877?label=Public%20Repos&style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Trojan3877/Trojan3877?label=Last%20Commit&style=for-the-badge)
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=tokyo-night)
+📊 
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trojan3877&theme=github_dark)
+
+[👉 View full contribution graph on GitHub](https://github.com/Trojan3877)
 
 🎓 Senior Undergraduate | Software Development (Web & Mobile Applications)
 🤖 AI / ML Engineering Focus | Backend & Platform Systems
