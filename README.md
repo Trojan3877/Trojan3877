@@ -10,6 +10,7 @@ Building scalable AI systems & full-stack applications.
 ![Portfolio Grade](https://img.shields.io/badge/Portfolio%20Grade-A--blue)
 [👉 View full contribution graph on GitHub](https://github.com/Trojan3877)
 
+![Portfolio Grade](https://img.shields.io/badge/Portfolio%20Quality-A--%20Engineering-blueviolet)
 🎓 Senior Undergraduate | Software Development (Web & Mobile Applications)
 🤖 AI / ML Engineering Focus | Backend & Platform Systems
 📍 Cleveland, Ohio
