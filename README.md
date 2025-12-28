@@ -13,7 +13,9 @@ Building scalable AI systems & full-stack applications.
   <img src="https://img.shields.io/badge/Status-Internship%20Ready-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Track-L3--L4%20Engineer-7c3aed?style=for-the-badge" />
 </p>
-![Last Commit](https://img.shields.io/github/last-commit/Trojan3877/DeepSequence-Recommender?style=for-the-badge)
+
+![Last Commit](https://img.shields.io/github/last-commit/Trojan3877/DeepSequence-Recommender?logo=github&label=Last%20Commit)
+
 
 
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trojan3877&theme=github_dark)
