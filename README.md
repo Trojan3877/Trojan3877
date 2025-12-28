@@ -7,7 +7,7 @@ Building scalable AI systems & full-stack applications.
   <img src="https://img.shields.io/badge/Portfolio%20Grade-A--0ea5e9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Internship%20Ready-22c55e?style=for-the-badge" />
   <img 
-![Portfolio Level](https://img.shields.io/badge/Portfolio%20Quality-L5%20Engineering-blueviolet) Commit](https://img.shields.io/github/last-commit/Trojan3877/DeepSequence-Recommender?logo=github&label=Last%20Commit)
+![Engineering Level](https://img.shields.io/badge/Engineering-L5-informational)
 
 
 
