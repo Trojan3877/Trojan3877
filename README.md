@@ -2,7 +2,6 @@
 ## 👋 Corey Leath — Aspiring AI & Platform Engineer
 Building scalable AI systems & full-stack applications.
 
-
   <img src="https://img.shields.io/github/followers/Trojan3877?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Trojan3877?style=for-the-badge" />
   <img src="https://img.shields.io/github/repos/Trojan3877?style=for-the-badge" />
