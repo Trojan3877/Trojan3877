@@ -5,7 +5,6 @@ Building scalable AI systems & full-stack applications.
   <img src="https://img.shields.io/github/stars/Trojan3877?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Portfolio%20Grade-A--0ea5e9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Internship%20Ready-22c55e?style=for-the-badge" />
-  <img 
 ![Engineering Level](https://img.shields.io/badge/Engineering-L5-informational)
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trojan3877&theme=github_dark)
 
