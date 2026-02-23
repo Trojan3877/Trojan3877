@@ -10,8 +10,9 @@ Building scalable AI systems & full-stack applications.
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=github-dark&hide_border=true) 
 
 
-🎓 Senior Undergraduate | Software Development (Web & Mobile Applications)
-🤖 AI / ML Engineering Focus | Backend & Platform Systems
+AI/ML Systems Engineer
+Production ML Pipelines • Recommender Systems • LLM Applications • Real-Time Optimization
+Python | C++ | Docker | Kubernetes | FastAPI | Snowflake | AWS | FAISS | CI/CD
 📍 Cleveland, Ohio
 
 I’m a senior undergraduate software developer focused on building real, end-to-end systems, not just class assignments. My work blends software engineering fundamentals with applied AI/ML, emphasizing clean architecture, scalability, and production-ready code.
