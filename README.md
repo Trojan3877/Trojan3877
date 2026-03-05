@@ -20,6 +20,13 @@
 ![Security Scanning](https://img.shields.io/badge/Security-Scanned-red)
 
 
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=tokyo-night)
+
+![GitHub Followers](https://img.shields.io/github/followers/Trojan3877?style=social)
+
+
 Hi, I'm Corey Leath
 
 AI / ML Systems Engineer focused on building production-grade machine learning platforms, distributed systems, and enterprise MLOps infrastructure.
