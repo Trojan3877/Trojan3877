@@ -1,57 +1,146 @@
+## 🛠 Tech Stack
 
-Corey Leath — Full-Stack AI Platform Engineer
-Building scalable AI systems & full-stack applications.
-<img src="https://img.shields.io/github/followers/Trojan3877?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Trojan3877?style=for-the-badge" />
-  ![Portfolio Level](https://img.shields.io/badge/Portfolio-A--%20(L5%20Engineering)-blue)
-  <img src="https://img.shields.io/badge/Status-Internship%20Ready-22c55e?style=for-the-badge" />
-![Engineering Level](https://img.shields.io/badge/Engineering-L5-informational)
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trojan3877&theme=github_dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=github-dark&hide_border=true) 
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Systems-00599C?logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ML-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestrated-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-ExperimentTracking-0194E2)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Production-FCC624?logo=linux&logoColor=black)
+![MLOps](https://img.shields.io/badge/MLOps-ProductionReady-blue)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-Scaling-orange)
+![Real-Time Inference](https://img.shields.io/badge/RealTime-Inference-success)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automated-critical)
+![Observability](https://img.shields.io/badge/Observability-Enabled-brightgreen)
+![Security Scanning](https://img.shields.io/badge/Security-Scanned-red)
 
 
-AI/ML Systems Engineer
-Production ML Pipelines • Recommender Systems • LLM Applications • Real-Time Optimization
-Python | C++ | Docker | Kubernetes | FastAPI | Snowflake | AWS | FAISS | CI/CD
-📍 Cleveland, Ohio
+Hi, I'm Corey Leath
 
-I’m a senior undergraduate software developer focused on building real, end-to-end systems, not just class assignments. My work blends software engineering fundamentals with applied AI/ML, emphasizing clean architecture, scalability, and production-ready code.
+AI / ML Systems Engineer focused on building production-grade machine learning platforms, distributed systems, and enterprise MLOps infrastructure.
 
-I actively build projects using Python, PyTorch, TensorFlow, Docker, FastAPI, SQL, and CI/CD, with hands-on experience across machine learning pipelines, recommendation systems, backend APIs, and data-driven applications.
 
-🧠 What I’m Working On
+I specialize in designing and deploying scalable AI systems that move beyond experimentation into production environments.
 
-AI & Machine Learning projects (training, evaluation, deployment-ready structure)
+My work emphasizes:
 
-Backend services and APIs for ML-powered applications
+- End-to-end ML pipelines
+- Model deployment & monitoring
+- Distributed inference systems
+- Kubernetes & cloud-native infrastructure
+- CI/CD automation
+- Secure containerized architectures
+- Observability & reliability engineering
 
-Recommendation systems and data pipelines
+Currently focused on:
+- Predictive Maintenance Systems
+- Autonomous Vehicle Safety & Geofencing
+- Real-time ML APIs
+- Production MLOps platforms
 
-Clean, testable, well-documented codebases
 
-🛠️ Tech Stack
 
-Languages: Python, SQL
-ML / AI: PyTorch, TensorFlow, Hugging Face
-Backend: FastAPI, REST APIs
-DevOps: Docker, CI/CD (GitHub Actions)
-Data: Pandas, NumPy
-Systems: Linux, Git, Cloud fundamentals
+ Core Technical Stack
 
-🎯 Career Focus
+### Machine Learning
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- XGBoost
+- MLflow
 
-I’m actively seeking Software Engineering Intern, AI / Machine Learning Engineering Intern, or Platform / Backend Intern roles.
+### Backend & Systems
+- Python
+- C++
+- FastAPI
+- REST APIs
+- Distributed Services
 
-I’ve been referred to Microsoft Explore through professional networking and am preparing for a Master’s in AI Engineering (UPenn). My goal is to gain hands-on industry experience while continuing to build impactful systems.
+ MLOps & Infrastructure
+- Docker
+- Kubernetes
+- Helm
+- Terraform
+- GitHub Actions
+- CI/CD Pipelines
+- Prometheus Monitoring
+- Trivy Security Scanning
+- SonarCloud Static Analysis
 
-📂 Featured Projects
+Data & Streaming
+- Snowflake
+- FAISS
+- Feature Engineering Pipelines
+- IoT Data Simulation
 
-🔹 DeepSequence Recommender – Sequence-based recommendation system
-🔹 AI / ML Pipelines – Data → Training → Evaluation workflows
-🔹 Backend APIs – ML-backed services with clean architecture
+---
 
-👉 See pinned repositories below for detailed implementations.
+Featured Enterprise Projects
 
+Predictive Maintenance IoT Platform
+Production-ready ML system with:
+- FastAPI inference service
+- Streamlit monitoring dashboard
+- Docker + Kubernetes deployment
+- CI/CD + Security scanning
+- Infrastructure as Code
+
+AutoGuard AI – Autonomous Vehicle Safety Platform
+- Transformer-based perception models
+- Reinforcement learning driving simulation
+- Real-time geofencing
+- MLflow experiment tracking
+- Helm + Kubernetes deployment
+
+Facial Emotion Recognition System
+- CNN & ResNet architectures
+- Evaluation metrics tracking
+- Dockerized deployment
+- Structured modular architecture
+
+
+Engineering Philosophy
+
+I focus on building systems that are:
+
+- Reliable
+- Scalable
+- Observable
+- Secure
+- Measurable
+- Production-ready
+
+Machine learning models are valuable — but deployed systems create impact.
+
+
+
+ What I'm Building Toward
+
+- Senior-level ML Engineering roles
+- Distributed AI infrastructure
+- Real-time inference platforms
+- Enterprise-grade reliability systems
+- High-performance backend ML architectures
+
+
+
+Current Focus
+
+Sharpening:
+- Advanced system design
+- Distributed architecture
+- Production ML scaling
+- Infrastructure automation
+- Performance optimization
+
+---
+
+⚡ Always building. Always improving. Always shipping.
 📫 Let’s Connect
 
 LinkedIn: https://www.linkedin.com/in/coreyleath
