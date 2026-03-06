@@ -34,6 +34,8 @@ AI / ML Systems Engineer focused on building production-grade machine learning p
 
 I specialize in designing and deploying scalable AI systems that move beyond experimentation into production environments.
 
+Currently a senior pursuing a Bachelor's in Software Development with a focus on Web, Mobile, and AI, I'm advancing toward a Master’s in AI at the University of Pennsylvania. My hands-on experience includes a referral to Microsoft’s Explore program and a software engineering internship at WellBe Insurance. I work with C#, React, TypeScript, Jira, Microsoft Teams, Slack, and VS Code. This blend of academia and practical collaboration tools reflects my commitment to building innovative, production-grade solutions.
+
 My work emphasizes:
 
 - End-to-end ML pipelines
