@@ -18,7 +18,16 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-Automated-critical)
 ![Observability](https://img.shields.io/badge/Observability-Enabled-brightgreen)
 ![Security Scanning](https://img.shields.io/badge/Security-Scanned-red)
-
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoftteams&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?logo=github&logoColor=white)
+![Freshservice](https://img.shields.io/badge/Freshservice-Ticketing-00A884)
 
 ## 📈 Contribution Activity
 
