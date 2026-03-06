@@ -28,6 +28,8 @@
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoftteams&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?logo=github&logoColor=white)
 ![Freshservice](https://img.shields.io/badge/Freshservice-Ticketing-00A884)
+![Hugging Face Transformers](https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![Snowflake Data Warehouse](https://img.shields.io/badge/Data_Warehouse-Snowflake-29B5E8?logo=snowflake&logoColor=white)
 
 ## 📈 Contribution Activity
 
