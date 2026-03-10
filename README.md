@@ -1,5 +1,3 @@
-## 🛠 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Systems-00599C?logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ML-EE4C2C?logo=pytorch&logoColor=white)
