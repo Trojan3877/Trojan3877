@@ -29,7 +29,6 @@
 ![Hugging Face Transformers](https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 ![Snowflake Data Warehouse](https://img.shields.io/badge/Data_Warehouse-Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![Streamlit Dashboard](https://img.shields.io/badge/ML_Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-## 📈 Contribution Activity
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=tokyo-night)
 
