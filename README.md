@@ -42,7 +42,7 @@ AI / ML Systems Engineer focused on building production-grade machine learning p
 
 I specialize in designing and deploying scalable AI systems that move beyond experimentation into production environments.
 
-I’m currently a senior in a Bachelor’s program specializing in Web, Mobile, and AI development at Devry University and am advancing toward a Master’s in AI at the University of Pennsylvania. I am an IEEE Member and  I’ve been referred to Microsoft’s Explore program and am currently interning as a Software Engineer I at WellBe Insurance. My work involves C#, React, TypeScript, npm, and VS Code, supported by collaboration tools like Jira, Microsoft Teams, Slack, and Freshservice for ticketing. Additionally, I leverage GitHub Copilot to enhance development efficiency. This blend of practical experience and industry tools ensures I’m delivering professional-grade solutions in every project.
+I’m currently a senior in a Bachelor’s program specializing in Web, Mobile, and AI development at Devry University and am advancing toward a Master’s in AI at the University of Pennsylvania. I am an IEEE Member and  I’ve been referred to Microsoft’s Explore program and am currently interning as a Software Engineer I at WellBe Insurance. My work involves C#, .NET React, TypeScript, npm, and VS Code, supported by collaboration tools like Jira, Microsoft Teams, Slack, and Freshservice for ticketing. Additionally, I leverage GitHub Copilot to enhance development efficiency. This blend of practical experience and industry tools ensures I’m delivering professional-grade solutions in every project.
 
 
 My work emphasizes:
