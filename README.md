@@ -45,6 +45,17 @@ I specialize in designing and deploying scalable AI systems that move beyond exp
 I’m currently a senior in a Bachelor’s program specializing in Web, Mobile, and AI development at Devry University and am advancing toward a Master’s in AI at the University of Pennsylvania. I am an IEEE Member and  I’ve been referred to Microsoft’s Explore program and am currently interning as a Software Engineer I at WellBe Insurance. My work involves C#, .NET React, TypeScript, npm, and VS Code, supported by collaboration tools like Jira, Microsoft Teams, Slack, and Freshservice for ticketing. Additionally, I leverage GitHub Copilot to enhance development efficiency. This blend of practical experience and industry tools ensures I’m delivering professional-grade solutions in every project.
 
 
+## 🚀 Featured Projects (Production-Grade)
+
+- 🔹 Quant LLM Assistant → 950 RPS, 65ms latency, FAISS retrieval in 5ms
+- 🔹 AutoGuard AI → 2,000 events/sec, 40ms real-time geofencing, 96% detection accuracy
+- 🔹 TrojanChat (Distributed System) → 10K+ concurrent users, <50ms messaging latency, WebSocket-based scaling
+- 🔹 NYC Finance Data Pipeline → 5M+ records processed, 3.2 min pipeline runtime, 120ms query latency (Snowflake)
+- 🔹 Facial Emotion Recognition → 91% accuracy, 28ms inference time, 22 FPS real-time detection
+- 🔹 Disease Prediction ML Pipeline → 90% accuracy, 0.92 AUC, 10ms inference latency
+- 🔹 Vehicle Safety Classifier → 92% accuracy, 35ms detection latency, 1,500 events/sec throughput
+
+
 My work emphasizes:
 
 - End-to-end ML pipelines
