@@ -33,7 +33,9 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=tokyo-night)
 
 ![GitHub Followers](https://img.shields.io/github/followers/Trojan3877?style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical)
 
 Hi, I'm Corey Leath
 
