@@ -35,93 +35,117 @@
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trojan3877&theme=tokyonight)
 
 
-Hi, I'm Corey Leath
+Hi, I'm Corey Leath 
 
-🚀 Software Engineering Intern @ WellBe | AI/ML Engineer in Training  
-🎓 B.S. Software Development (Web & Mobile) — In Progress  
-🎯 Future M.S. in AI Engineering (UPenn) → PhD in AI  
-
-
+🚀 Software Engineering Intern @ WellBe  
+🤖 AI / ML Engineer (Production Systems Focus)  
+🎓 B.S. Software Development (In Progress) → M.S. AI Engineering → PhD (Planned)
 
 
 
-I am a highly driven Software Engineering Intern and aspiring AI/ML Engineer focused on building **production-grade, scalable systems** that solve real-world problems across healthcare, finance, and intelligent automation.
+About Me
 
-Currently, I am gaining hands-on experience working with:
-- ⚙️ **C#, React, TypeScript** in enterprise environments  
-- 🧩 Ticket-driven development (Jira, Freshservice)  
-- 🔍 Debugging, system workflows, and backend data integrity  
+I am an AI/ML-focused Software Engineer building **production-grade, scalable systems** that operate at the intersection of:
 
-I am actively developing a portfolio of **L5–L6 caliber AI and system design projects** integrating:
+- Machine Learning
+- Distributed Systems
+- Real-Time Data Processing
+- AI Infrastructure (LLMs, RAG, Vector Search)
 
-- 🤖 Machine Learning & Deep Learning (PyTorch, TensorFlow)
-- 📊 Data Engineering (Snowflake, Airflow)
-- ⚡ Real-Time Systems (Kafka, WebSockets)
-- ☁️ Cloud & DevOps (Docker, Kubernetes, CI/CD, Terraform)
-- 🧠 LLM Systems (LangChain, RAG, Vector Search, FAISS)
+Unlike traditional portfolios, I focus on **end-to-end system design**, not just models.
+
+My work emphasizes:
+- ⚡ Real-time inference systems (Kafka, WebSockets)
+- 📊 Measurable performance (latency, throughput, accuracy)
+- ☁️ Cloud-native architecture (Docker, Kubernetes, Terraform)
+- 🔁 CI/CD + Observability (Prometheus, MLflow, GitHub Actions)
 
 
 
 What I’m Building
 
-I focus on **high-impact, production-style projects** that reflect real industry systems:
+I design systems that reflect **real-world production environments**, not notebooks.
 
-- 🚗 **AutoGuard AI** — Real-time vehicle safety & geofencing platform  
-- 💬 **TrojanChat** — Distributed chat system with future LLM integration  
-- 🎭 **Facial Emotion Recognition** — Computer vision with CNNs  
-- 📈 **Quant LLM Assistant** — Financial AI analysis & reasoning  
-- 🧬 **Disease Prediction Pipeline** — End-to-end ML pipeline  
+AutoGuard AI
+Real-time autonomous vehicle safety system  
+→ Geofencing + streaming inference + anomaly detection  
 
-Each project emphasizes:
+SentinelAI
+Production AI monitoring & inference platform  
+→ Drift detection, observability, system health tracking  
+
+LogSight-AI
+Real-time AIOps platform  
+→ Processes 50k+ logs/sec using clustering + anomaly detection  
+
+Quant LLM Assistant
+LLM-powered financial intelligence system  
+→ FAISS + Redis + Kafka + gRPC/REST inference  
+→ ~65ms latency, ~950 RPS load-tested 1  
+
+DeepSequence Recommender
+Personalized recommendation system  
+→ Moving toward sequence-based deep learning models  
+
+
+
+Engineering Experience (WellBe – Healthcare Tech)
+
+- Resolved production engineering tickets (data sync, permissions, workflows)
+- Worked across frontend/backend systems (C#, React, TypeScript)
+- Debugged real-world system failures and data inconsistencies
+- Practiced full SDLC:
+  - Ticket-driven development (Jira, Freshservice)
+  - Debugging + root cause analysis
+  - Production issue resolution
+
+
+
+Tech Stack
+
+**Languages:** Python, C++, C#, TypeScript  
+**ML/AI:** PyTorch, TensorFlow, Hugging Face, FAISS  
+**Data & Streaming:** Kafka, Snowflake, Airflow  
+**Backend:** FastAPI, gRPC  
+**DevOps:** Docker, Kubernetes, Terraform, CI/CD  
+**Monitoring:** Prometheus, MLflow, OpenTelemetry  
+**Frontend:** React, Streamlit  
+
+
+
+Engineering Philosophy
+
+I don’t build “projects” — I build **systems**.
+
+Every repository is designed to demonstrate:
 - ✔️ Clean modular architecture  
-- ✔️ Quantifiable metrics (F1, precision, recall)  
-- ✔️ CI/CD pipelines & containerization  
-- ✔️ Scalable system design  
+- ✔️ Production readiness  
+- ✔️ Measurable performance  
+- ✔️ Real-world applicability  
 
 
 
+Career Direction
 
+Currently targeting:
+- AI / ML Engineer (L3 → L4)
+- AI Systems / LLM Engineering Roles
 
-**Software Engineering Intern — WellBe (Healthcare Tech)**  
-- Resolved engineering tickets involving data synchronization, permissions, and system workflows  
-- Worked across frontend and backend systems (C#, React, TypeScript)  
-- Investigated and debugged production issues in enterprise platforms  
-- Collaborated using Jira, Freshservice, GitHub, and VS Code  
-- Practiced real-world SDLC, debugging, and ticket resolution workflows  
-
-
-
-
-
-I am targeting **L3–L4 Software Engineering / AI roles** with a trajectory toward:
-
-- 🧠 AI/ML Engineer (L5+)  
-- 🤖 Advanced AI Systems & LLM Engineering  
-- 💼 Big Tech / Big AI (OpenAI, Google, Meta, NVIDIA, Stripe)  
-- 💰 Long-term: $300K–$500K+ total compensation  
+Long-term focus:
+- Advanced AI infrastructure
+- Real-time intelligent systems
+- Big Tech / AI Labs (OpenAI, Google, NVIDIA)
 
 
 
+ Mission
 
-- 📈 Strong upward trajectory from non-traditional background  
-- 🧠 Deep focus on **real-world system design + AI integration**  
-- 🛠️ Building **production-ready GitHub portfolio (not toy projects)**  
-- 🔥 Consistent execution, discipline, and long-term vision  
+> “Building at the intersection of AI, systems, and real-world impact.”
 
 
 
-## 📫 Let’s Connect
+Let’s Connect
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/coreyleath/  
-- 💻 GitHub: https://github.com/Trojan3877  
-
----
-
-## 🧠 Tech Stack
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=tokyonight)
-
----
-
-⭐ *“Building at the intersection of AI, systems, and real-world impact.”*
+- LinkedIn: https://www.linkedin.com/in/coreyleath/
+- GitHub: https://github.com/Trojan3877
 
