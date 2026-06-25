@@ -1,159 +1,127 @@
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Systems-00599C?logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ML-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestrated-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-ExperimentTracking-0194E2)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Production-FCC624?logo=linux&logoColor=black)
-![MLOps](https://img.shields.io/badge/MLOps-ProductionReady-blue)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-Scaling-orange)
-![Real-Time Inference](https://img.shields.io/badge/RealTime-Inference-success)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automated-critical)
-![Observability](https://img.shields.io/badge/Observability-Enabled-brightgreen)
-![Security Scanning](https://img.shields.io/badge/Security-Scanned-red)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoftteams&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?logo=github&logoColor=white)
-![Freshservice](https://img.shields.io/badge/Freshservice-Ticketing-00A884)
-![Hugging Face Transformers](https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
-![Snowflake Data Warehouse](https://img.shields.io/badge/Data_Warehouse-Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![Streamlit Dashboard](https://img.shields.io/badge/ML_Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+Hi, I'm Corey Leath
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=tokyo-night)
+Machine Learning Engineer • AI Engineering Graduate Student • MLOps Enthusiast
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trojan3877&theme=tokyonight)### 🛠️ Languages
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
-
-Hi, I'm Corey Leath 
-
-🚀 Software Engineering Intern @ WellBe  
-🤖 AI / ML Engineer (Production Systems Focus)  
-🎓 B.S. Software Development (In Progress) → M.S. AI Engineering → PhD (Planned)
+I build production-oriented machine learning systems, cloud-native AI infrastructure, and end-to-end data platforms.
 
 
 
 About Me
 
-I am an AI/ML-focused Software Engineer building **production-grade, scalable systems** that operate at the intersection of:
-
-- Machine Learning
-- Distributed Systems
-- Real-Time Data Processing
-- AI Infrastructure (LLMs, RAG, Vector Search)
-
-Unlike traditional portfolios, I focus on **end-to-end system design**, not just models.
-
-My work emphasizes:
-- ⚡ Real-time inference systems (Kafka, WebSockets)
-- 📊 Measurable performance (latency, throughput, accuracy)
-- ☁️ Cloud-native architecture (Docker, Kubernetes, Terraform)
-- 🔁 CI/CD + Observability (Prometheus, MLflow, GitHub Actions)
+* AI Engineering Graduate Student
+* Software Development Bachelor's Graduate
+* Building scalable Machine Learning and MLOps solutions
+* Interested in Applied AI, LLM Systems, Forecasting, and Quantitative Analytics
+* Seeking Machine Learning Engineering and AI Engineering Internship Opportunities
 
 
 
-What I’m Building
+Current Focus
 
-I design systems that reflect **real-world production environments**, not notebooks.
-
-AutoGuard AI
-Real-time autonomous vehicle safety system  
-→ Geofencing + streaming inference + anomaly detection  
-
-SentinelAI
-Production AI monitoring & inference platform  
-→ Drift detection, observability, system health tracking  
-
-LogSight-AI
-Real-time AIOps platform  
-→ Processes 50k+ logs/sec using clustering + anomaly detection  
-
-Quant LLM Assistant
-LLM-powered financial intelligence system  
-→ FAISS + Redis + Kafka + gRPC/REST inference  
-→ ~65ms latency, ~950 RPS load-tested 1  
-
-DeepSequence Recommender
-Personalized recommendation system  
-→ Moving toward sequence-based deep learning models  
+* Large Language Models (LLMs)
+* MLOps & Model Deployment
+* Cloud AI Infrastructure
+* Data Engineering Pipelines
+* Applied Machine Learning Research
+* AI Product Development
 
 
 
-Engineering Experience (WellBe – Healthcare Tech)
+Featured Projects
 
-- Resolved production engineering tickets (data sync, permissions, workflows)
-- Worked across frontend/backend systems (C#, React, TypeScript)
-- Debugged real-world system failures and data inconsistencies
-- Practiced full SDLC:
-  - Ticket-driven development (Jira, Freshservice)
-  - Debugging + root cause analysis
-  - Production issue resolution
+LLM Quant Assistant
 
+Financial intelligence platform leveraging modern LLM workflows, retrieval-augmented generation (RAG), and quantitative analytics.
 
+AWS SageMaker + Snowflake ML Pipeline
 
-Tech Stack
+Production-ready machine learning workflow integrating cloud infrastructure, automated training, and deployment.
 
-**Languages:** Python, C++, C#, TypeScript  
-**ML/AI:** PyTorch, TensorFlow, Hugging Face, FAISS  
-**Data & Streaming:** Kafka, Snowflake, Airflow  
-**Backend:** FastAPI, gRPC  
-**DevOps:** Docker, Kubernetes, Terraform, CI/CD  
-**Monitoring:** Prometheus, MLflow, OpenTelemetry  
-**Frontend:** React, Streamlit  
+Facial Emotion Recognition System
 
+Deep learning computer vision application built with PyTorch, FastAPI, and Docker.
 
+Energy Demand Forecasting Platform
 
-Engineering Philosophy
+Time-series forecasting system featuring automated data pipelines and MLOps practices.
 
-I don’t build “projects” — I build **systems**.
+Algorithmic Trading Backtester
 
-Every repository is designed to demonstrate:
-- ✔️ Clean modular architecture  
-- ✔️ Production readiness  
-- ✔️ Measurable performance  
-- ✔️ Real-world applicability  
+Research platform for evaluating systematic trading strategies and portfolio performance.
 
 
 
-Career Direction
+Technology Stack
 
-Currently targeting:
-- AI / ML Engineer (L3 → L4)
-- AI Systems / LLM Engineering Roles
+Languages
 
-Long-term focus:
-- Advanced AI infrastructure
-- Real-time intelligent systems
-- Big Tech / AI Labs (OpenAI, Google, NVIDIA)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+
+Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+
+Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
+
+Data Engineering
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 
 
 
- Mission
+GitHub Analytics
 
-> “Building at the intersection of AI, systems, and real-world impact.”
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&rank_icon=github&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trojan3877&theme=transparent"/>
+</p>
 
 
 
-Let’s Connect
+## Contribution Activity
 
-- LinkedIn: https://www.linkedin.com/in/coreyleath/
-- GitHub: https://github.com/Trojan3877
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877\&theme=github-compact)
+
+
+
+## Education
+
+### Master of Science — AI Engineering
+
+University of Pennsylvania (Planned)
+
+Bachelor of Science — Software Development Specialized in web and mobile applications
+DeVry University
+Specialization: Web & Mobile Applications
+
+Associate of Science — Engineering Technology
+
+Machine Learning & Design Techniques
+
+
+
+Connect With Me
+
+* GitHub: https://github.com/Trojan3877
+* LinkedIn: https://linkedin.com/in/corey-leath
+
+---
+
+> Building production-grade AI systems, one repository at a time.
 
