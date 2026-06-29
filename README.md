@@ -110,9 +110,9 @@ Bachelor of Science — Software Development Specialized in web and mobile appli
 DeVry University
 Specialization: Web & Mobile Applications
 
-Associate of Science — Engineering Technology specializing in machine learning and design techniques
+Associate of Science — Engineering Technology specializing in Machine learning and design techniques
 Associate of Science - Information Technology
-Machine Learning & Design Techniques
+
 
 
 
