@@ -104,14 +104,14 @@ GitHub Analytics
 
 ### Master of Science — AI Engineering
 
-University of Pennsylvania (Planned)
+University of Purdue (Planned)
 
 Bachelor of Science — Software Development Specialized in web and mobile applications
 DeVry University
 Specialization: Web & Mobile Applications
 
-Associate of Science — Engineering Technology
-
+Associate of Science — Engineering Technology specializing in machine learning and design techniques
+Associate of Science - Information Technology
 Machine Learning & Design Techniques
 
 
