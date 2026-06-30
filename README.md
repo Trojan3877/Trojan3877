@@ -23,17 +23,6 @@ I build production-oriented machine learning systems, cloud-native AI infrastruc
 I build production-oriented machine learning systems, cloud-native AI infrastructure, and end-to-end data platforms.
 
 
-
-About Me
-
-* AI Engineering Graduate Student
-* Software Development Bachelor's Graduate
-* Building scalable Machine Learning and MLOps solutions
-* Interested in Applied AI, LLM Systems, Forecasting, and Quantitative Analytics
-* Seeking Machine Learning Engineering and AI Engineering Internship Opportunities
-
-
-
 Current Focus
 
 * Large Language Models (LLMs)
