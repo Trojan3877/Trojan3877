@@ -29,11 +29,13 @@ Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, 
 * **AI Product Development**
 
 ---
-
 ### 📖 Technical Documentation & Journals
+
 * 🏛️ **[HelixAgent Core Engine Testing Matrix](https://github.com/Trojan3877/HelixAgent)** — Live repository running multi-layer security scanning, code quality checks, and auto-release pipelines.
 * 📓 **[HelixAgent Live Engineering Log](https://github.com/Trojan3877/HelixAgent/blob/main/dailylog.md)** — Detailed running analysis of architectural refactors, system optimizations, and daily research milestones.
-# 🔍 LogSight-AI: Real-Time Intelligent Observability Telemetry
+* 🔍 **[LogSight-AI Observability Telemetry](https://github.com/Trojan3877/LogSight-AI)** — Real-time intelligent log parsing and anomaly analytics engine backed by an automated 7-tier code hygiene and threat shield.
+* 🛒 **[DeepSequence-Recommender System Engine](https://github.com/Trojan3877/DeepSequence-Recommender)** — Deep sequential recommendation framework featuring accelerated pip-caching pipelines, custom SAST auditing, and inference latency profiling.
+
 
 
 LLM Quant Assistant
