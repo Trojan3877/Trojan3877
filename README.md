@@ -1,7 +1,25 @@
-Hi, I'm Corey Leath
+# 👨‍💻 Corey Leath | AI Systems Architect & Software Engineer
 
-Machine Learning Engineer • AI Engineering Graduate Student • MLOps Enthusiast
+Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, distributed multi-agent frameworks, and autonomous system architecture. Currently architecting scalable microservices in .NET/C# and Python.
 
+### 🚀 Live Engineering Telemetry (Recent Pushes)
+
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
+
+---
+
+*Automated via Python & GitHub Actions CI/CD*
+
+I build production-oriented machine learning systems, cloud-native AI infrastructure, and end-to-end data platforms.
+
+### 👤 About Me
+
+* **AI Engineering Graduate Student**
+* **Software Development Bachelor's Graduate**
+* **Building scalable Machine Learning and MLOps solutions**
+* **Interested in Applied AI, LLM Systems, Forecasting, and Quantitative Analytics**
+* **Seeking Machine Learning Engineering and AI Engineering Opportunities**
 I build production-oriented machine learning systems, cloud-native AI infrastructure, and end-to-end data platforms.
 
 
