@@ -56,6 +56,16 @@ Algorithmic Trading Backtester
 
 Research platform for evaluating systematic trading strategies and portfolio performance.
 
+Repository Root and L6 Standard for all my Top repos
+├── .github/
+│   └── workflows/
+│       ├── ci-cd.yml             # 🧪 1. Core Testing Matrix
+│       ├── ci.yml                # 🎨 2. Code Hygiene (Flake8)
+│       ├── security.yml          # 🛡️ 3. Secrets & Package Scan
+│       ├── release.yml           # 🏷️ 4. Semantic Release Tagging
+│       ├── sast.yml              # 🔍 5. Custom Code Flaw Scan (Bandit)
+│       ├── benchmarks.yml        # ⏱️ 6. Performance & Latency Track
+│       └── data-validation.yml   # 🧬 7. Schema Data Contract Check
 
 
 Technology Stack
