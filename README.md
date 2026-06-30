@@ -34,8 +34,10 @@ Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, 
 * 🏛️ **[HelixAgent Core Engine Testing Matrix](https://github.com/Trojan3877/HelixAgent)** — Live repository running multi-layer security scanning, code quality checks, and auto-release pipelines.
 * 📓 **[HelixAgent Live Engineering Log](https://github.com/Trojan3877/HelixAgent/blob/main/dailylog.md)** — Detailed running analysis of architectural refactors, system optimizations, and daily research milestones.
 * 🔍 **[LogSight-AI Observability Telemetry](https://github.com/Trojan3877/LogSight-AI)** — Real-time intelligent log parsing and anomaly analytics engine backed by an automated 7-tier code hygiene and threat shield.
-* 🛒 **[DeepSequence-Recommender System Engine](https://github.com/Trojan3877/DeepSequence-Recommender)** — Deep sequential recommendation framework featuring accelerated pip-caching pipelines, custom SAST auditing, and inference latency profiling.
-
+* 🛡️ **[SentinelAI Production Inference Platform](https://github.com/Trojan3877/SentinelAI)** — AI monitoring framework monitoring embedding drift, tracking model performance, and evaluating runtime health via custom SAST telemetry.
+* 🚘 **[AutoGuard-AI Real-Time Safety Platform](https://github.com/Trojan3877/AutoGuard-AI-Real-Time-Autonomous-Vehicle-Safety-Geofencing-Platform)** — Autonomous safety and geofencing pipeline running low-latency streaming anomaly parsing and live telemetry compliance checks.
+* 🧮 **[Quant-LLM-Assistant Intelligence Engine](https://github.com/Trojan3877/QUANT-LLM-ASSISTANT)** — Multi-agent financial research assistant utilizing vector databases, Kafka message streams, and performance latency benchmarking metrics.
+* 🛒 **[DeepSequence-Recommender System Engine](https://github.com/Trojan3877/DeepSequence-Recommender)** — Deep sequential recommendation framework featuring accelerated pip-caching pipelines, data-drift assertions, and inference latency profiling.
 
 
 LLM Quant Assistant
