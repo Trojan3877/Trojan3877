@@ -7,20 +7,19 @@ Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, 
 <!-- START_SECTION:activity -->
 <!-- END_SECTION:activity -->
 
----
 
 *Automated via Python & GitHub Actions CI/CD*
 
-I build production-oriented machine learning systems, cloud-native AI infrastructure, and end-to-end data platforms.
-
-###  About Me
+### 👤 About Me
 
 * **AI Engineering Graduate Student**
 * **Software Development Bachelor's Graduate**
 * **Building scalable Machine Learning and MLOps solutions**
+* **I build production-oriented machine learning systems, cloud-native AI infrastructure, and end-to-end data platforms.**
 * **Interested in Applied AI, LLM Systems, Forecasting, and Quantitative Analytics**
 * **Seeking Machine Learning Engineering and AI Engineering Opportunities**
-I build production-oriented machine learning systems, cloud-native AI infrastructure, and end-to-end data platforms.
+
+### 🎯 Current Focus
 
 
 Current Focus
