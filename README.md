@@ -56,16 +56,23 @@ Algorithmic Trading Backtester
 
 Research platform for evaluating systematic trading strategies and portfolio performance.
 
-Repository Root and L6 Standard for all my Top repos
+## 🛠️ My Engineering & Systems Hygiene Standards (Level 6 Blueprint)
+
+Every repository I architect is strictly bounded by an automated **7-tier CI/CD telemetry plane** to ensure production-grade security, code quality, and operational reliability on every upstream push.
+
+<details>
+<summary>📦 Click to expand my universal <code>.github/workflows/</code> architecture</summary>
+
+```text
 ├── .github/
 │   └── workflows/
-│       ├── ci-cd.yml             # 🧪 1. Core Testing Matrix
-│       ├── ci.yml                # 🎨 2. Code Hygiene (Flake8)
-│       ├── security.yml          # 🛡️ 3. Secrets & Package Scan
-│       ├── release.yml           # 🏷️ 4. Semantic Release Tagging
-│       ├── sast.yml              # 🔍 5. Custom Code Flaw Scan (Bandit)
-│       ├── benchmarks.yml        # ⏱️ 6. Performance & Latency Track
-│       └── data-validation.yml   # 🧬 7. Schema Data Contract Check
+│       ├── ci-cd.yml             # 🧪 1. Core Testing Matrix (PyTest Engine)
+│       ├── ci.yml                # 🎨 2. Code Hygiene (Flake8 Styling Compliance)
+│       ├── security.yml          # 🛡️ 3. Vulnerability Protection (Secrets & Package Scan)
+│       ├── sast.yml              # 🔍 4. Custom Code Flaw Scan (SAST via Bandit)
+│       ├── benchmarks.yml        # ⏱️ 5. Performance Tracking (Latency Profiling)
+│       ├── data-validation.yml   # 🧬 6. Schema Consistency (Data Contract Checks)
+│       └── release.yml           # 🏷️ 7. Release Engineering (Automated Semantic Tagging)
 
 
 Technology Stack
