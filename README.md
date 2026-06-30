@@ -35,11 +35,6 @@ Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, 
 * 📓 **[HelixAgent Live Engineering Log](https://github.com/Trojan3877/HelixAgent/blob/main/dailylog.md)** — Detailed running analysis of architectural refactors, system optimizations, and daily research milestones.
 # 🔍 LogSight-AI: Real-Time Intelligent Observability Telemetry
 
-[![Continuous Integration](https://github.com/Trojan3877/LogSight-AI/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Trojan3877/LogSight-AI/actions/workflows/ci-cd.yml)
-[![Code Quality Assurance](https://github.com/Trojan3877/LogSight-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Trojan3877/LogSight-AI/actions/workflows/ci.yml)
-[![Security Analysis](https://github.com/Trojan3877/LogSight-AI/actions/workflows/security.yml/badge.svg)](https://github.com/Trojan3877/LogSight-AI/actions/workflows/security.yml)
-[![Automated Release](https://github.com/Trojan3877/LogSight-AI/actions/workflows/release.yml/badge.svg)](https://github.com/Trojan3877/LogSight-AI/actions/workflows/release.yml)
-Featured Projects
 
 LLM Quant Assistant
 
