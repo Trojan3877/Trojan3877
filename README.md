@@ -28,7 +28,6 @@ Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, 
 * **Applied Machine Learning Research**
 * **AI Product Development**
 
----
 ### 📖 Technical Documentation & Journals
 
 * 🏛️ **[HelixAgent Core Engine Testing Matrix](https://github.com/Trojan3877/HelixAgent)** — Live repository running multi-layer security scanning, code quality checks, and auto-release pipelines.
@@ -64,10 +63,6 @@ Research platform for evaluating systematic trading strategies and portfolio per
 
 Every repository I architect is strictly bounded by an automated **7-tier CI/CD telemetry plane** to ensure production-grade security, code quality, and operational reliability on every upstream push.
 
-<details>
-<summary>📦 Click to expand my universal <code>.github/workflows/</code> architecture</summary>
-
-```text
 ├── .github/
 │   └── workflows/
 │       ├── ci-cd.yml             # 🧪 1. Core Testing Matrix (PyTest Engine)
