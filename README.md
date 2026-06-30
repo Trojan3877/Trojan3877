@@ -19,7 +19,6 @@ Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, 
 * **Interested in Applied AI, LLM Systems, Forecasting, and Quantitative Analytics**
 * **Seeking Machine Learning Engineering and AI Engineering Opportunities**
 
-
 ### 🎯 Current Focus
 
 * **Large Language Models (LLMs)**
@@ -29,6 +28,11 @@ Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, 
 * **Applied Machine Learning Research**
 * **AI Product Development**
 
+---
+
+### 📖 Technical Documentation & Journals
+* 🏛️ **[HelixAgent Core Engine Testing Matrix](https://github.com/Trojan3877/HelixAgent)** — Live repository running multi-layer security scanning, code quality checks, and auto-release pipelines.
+* 📓 **[HelixAgent Live Engineering Log](https://github.com/Trojan3877/HelixAgent/blob/main/dailylog.md)** — Detailed running analysis of architectural refactors, system optimizations, and daily research milestones.
 
 Featured Projects
 
