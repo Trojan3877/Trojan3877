@@ -20,15 +20,14 @@ Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, 
 * **Seeking Machine Learning Engineering and AI Engineering Opportunities**
 
 
-Current Focus
+### 🎯 Current Focus
 
-* Large Language Models (LLMs)
-* MLOps & Model Deployment
-* Cloud AI Infrastructure
-* Data Engineering Pipelines
-* Applied Machine Learning Research
-* AI Product Development
-
+* **Large Language Models (LLMs)**
+* **MLOps & Model Deployment**
+* **Cloud AI Infrastructure**
+* **Data Engineering Pipelines**
+* **Applied Machine Learning Research**
+* **AI Product Development**
 
 
 Featured Projects
