@@ -115,7 +115,6 @@ Data Engineering
 </p>
 
 ## ## Contribution Activity
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=github-compact)
 
 
