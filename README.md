@@ -19,8 +19,6 @@ Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, 
 * **Interested in Applied AI, LLM Systems, Forecasting, and Quantitative Analytics**
 * **Seeking Machine Learning Engineering and AI Engineering Opportunities**
 
-### 🎯 Current Focus
-
 
 Current Focus
 
