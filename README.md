@@ -108,8 +108,8 @@ Data Engineering
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 
-
 ## ## Contribution Activity
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=github-compact)
 
 ## Education
