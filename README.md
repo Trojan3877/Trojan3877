@@ -108,6 +108,20 @@ Data Engineering
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=CoreyLeath-code&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="Corey's GitHub Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyLeath-code&layout=compact&theme=react-dark&hide_border=true&langs_count=6" alt="Corey's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ## 📈 GitHub Contribution Graph
 
 [![Corey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CoreyLeath-code&theme=react-dark&hide_border=true)](https://github.com/CoreyLeath-code)
