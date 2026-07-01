@@ -114,8 +114,6 @@ Data Engineering
 
 ![Corey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyLeath-code&layout=compact&theme=react-dark&hide_border=true&langs_count=6)
 
-</div>
-
 
 ## 📈 GitHub Contribution Graph
 
