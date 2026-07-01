@@ -108,9 +108,9 @@ Data Engineering
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 
-## 📊 Open Source Contribution Velocity & Metrics
+## 📈 GitHub Contribution Graph
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=CoreyLeath-code&theme=tokyonight&hide_border=true)
+[![Corey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CoreyLeath-code&theme=react-dark&hide_border=true)](https://github.com/CoreyLeath-code)
 
 ## Education
 
