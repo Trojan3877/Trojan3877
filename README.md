@@ -113,12 +113,6 @@ Data Engineering
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CoreyLeath-code&theme=tokyonight&hide_border=true)
 
-### 📈 Core Engineering Repository Analytics
-
-┌────────────────────────────────────────────────────────────────────────┐
-│  ![CoreyLeath-code's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoreyLeath-code&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)  │  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyLeath-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)  │
-└────────────────────────────────────────────────────────────────────────┘
-
 ## Education
 
 ### Master of Science — AI Engineering
