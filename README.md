@@ -108,14 +108,6 @@ Data Engineering
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 
 
-### GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&rank_icon=github&theme=transparent" alt="Corey's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=transparent" alt="Corey's Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Trojan3877&theme=transparent" alt=
-
 ## ## Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=github-compact)
 
