@@ -30,18 +30,19 @@ Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, 
 
 ### 📖 Technical Documentation & Journals
 
-* 🏛️ **[HelixAgent Core Engine Testing Matrix](https://github.com/Trojan3877/HelixAgent)** — Live repository running multi-layer security scanning, code quality checks, and auto-release pipelines.
-* 📓 **[HelixAgent Live Engineering Log](https://github.com/Trojan3877/HelixAgent/blob/main/dailylog.md)** — Detailed running analysis of architectural refactors, system optimizations, and daily research milestones.
-* 🔍 **[LogSight-AI Observability Telemetry](https://github.com/Trojan3877/LogSight-AI)** — Real-time intelligent log parsing and anomaly analytics engine backed by an automated 7-tier code hygiene and threat shield.
-* 🛡️ **[SentinelAI Production Inference Platform](https://github.com/Trojan3877/SentinelAI)** — AI monitoring framework tracking embedding drift, model performance, and runtime health metrics via custom SAST telemetry.
-* 🚘 **[AutoGuard-AI Real-Time Safety Platform](https://github.com/Trojan3877/AutoGuard-AI-Real-Time-Autonomous-Vehicle-Safety-Geofencing-Platform)** — Autonomous vehicle geofencing pipeline running low-latency streaming anomaly processing and live telemetry compliance checks.
-* 🧮 **[Quant-LLM-Assistant Intelligence Engine](https://github.com/Trojan3877/QUANT-LLM-ASSISTANT)** — Multi-agent financial research assistant utilizing vector databases, Kafka message streams, and performance latency profiling.
-* 📈 **[Algo-Quant-Backtester Engine](https://github.com/Trojan3877/Algo-Quant-Backtester)** — End-to-end DevMLOps algorithmic simulation platform designed to validate, backtest, and profile complex quantitative trading strategies.
-* ☁️ **[AWS-SageMaker-Snowflake-ML-Pipeline](https://github.com/Trojan3877/AWS-SageMaker-Snowflake-ML-Pipeline)** — Production-grade data engineering pipeline orchestrating large-scale warehouse data ingestion, feature extraction, and automated training.
-* 🤖 **[AI-Powered-personal-Assistant Platform](https://github.com/Trojan3877/AI-Powered-personal-Assistant)** — Core automation architecture executing real-time task orchestration, conversational intelligence, and localized service interfaces.
-* ⚙️ **[IntelliOps-AI Infrastructure](https://github.com/Trojan3877/IntelliOps-AI)** — Predictive site reliability and operations engine automating system health telemetry, process clustering, and container monitoring loops.
-* 🧬 **[Disease_Prediction_Capstone](https://github.com/Trojan3877/Disease_Prediction_Capstone)** — Machine learning diagnostic system mapping clinical data arrays to target classification topologies with rigorous feature evaluation profiles.
-* 🛒 **[DeepSequence-Recommender System Engine](https://github.com/Trojan3877/DeepSequence-Recommender)** — Deep sequential recommendation framework featuring accelerated pip-caching pipelines, data-drift assertions, and inference latency profiling.
+* 🏛️ **[HelixAgent Core Engine Testing Matrix](https://github.com/CoreyLeath-code/HelixAgent)** — Live repository running multi-layer security scanning, code quality checks, and auto-release pipelines.
+* 📓 **[HelixAgent Live Engineering Log](https://github.com/CoreyLeath-code/HelixAgent/blob/main/dailylog.md)** — Detailed running analysis of architectural refactors, system optimizations, and daily research milestones.
+* 🔍 **[LogSight-AI Observability Telemetry](https://github.com/CoreyLeath-code/LogSight-AI)** — Real-time intelligent log parsing and anomaly analytics engine backed by an automated 7-tier code hygiene and threat shield.
+* 🛡️ **[SentinelAI Production Inference Platform](https://github.com/CoreyLeath-code/SentinelAI)** — AI monitoring framework tracking embedding drift, model performance, and runtime health metrics via custom SAST telemetry.
+* 🚘 **[AutoGuard-AI Real-Time Safety Platform](https://github.com/CoreyLeath-code/AutoGuard-AI-Real-Time-Autonomous-Vehicle-Safety-Geofencing-Platform)** — Autonomous vehicle geofencing pipeline running low-latency streaming anomaly processing and live telemetry compliance checks.
+* 🧮 **[Quant-LLM-Assistant Intelligence Engine](https://github.com/CoreyLeath-code/QUANT-LLM-ASSISTANT)** — Multi-agent financial research assistant utilizing vector databases, Kafka message streams, and performance latency profiling.
+* 📈 **[Algo-Quant-Backtester Engine](https://github.com/CoreyLeath-code/Algo-Quant-Backtester)** — End-to-end DevMLOps algorithmic simulation platform designed to validate, backtest, and profile complex quantitative trading strategies.
+* ☁️ **[AWS-SageMaker-Snowflake-ML-Pipeline](https://github.com/CoreyLeath-code/AWS-SageMaker-Snowflake-ML-Pipeline)** — Production-grade data engineering pipeline orchestrating large-scale warehouse data ingestion, feature extraction, and automated training.
+* 🤖 **[AI-Powered-personal-Assistant Platform](https://github.com/CoreyLeath-code/AI-Powered-personal-Assistant)** — Core automation architecture executing real-time task orchestration, conversational intelligence, and localized service interfaces.
+* ⚙️ **[IntelliOps-AI Infrastructure](https://github.com/CoreyLeath-code/IntelliOps-AI)** — Predictive site reliability and operations engine automating system health telemetry, process clustering, and container monitoring loops.
+* 🧬 **[Disease_Prediction_Capstone](https://github.com/CoreyLeath-code/Disease_Prediction_Capstone)** — Machine learning diagnostic system mapping clinical data arrays to target classification topologies with rigorous feature evaluation profiles.
+* 🛒 **[DeepSequence-Recommender System Engine](https://github.com/CoreyLeath-code/DeepSequence-Recommender)** — Deep sequential recommendation framework featuring accelerated pip-caching pipelines, data-drift assertions, and inference latency profiling.
+* 📷 **[Facial-Emotion-Recognition-System Pipeline](https://github.com/CoreyLeath-code/Facial-Emotion-Recognition-System)** — Robust computer vision pipeline classifying expressions from video streams protected by a 7-tier static linter and inference tracking suite.
 
 
 LLM Quant Assistant
