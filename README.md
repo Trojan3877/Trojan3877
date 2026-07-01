@@ -108,7 +108,6 @@ Data Engineering
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 
-0
 ## 📊 Open Source Contribution Velocity & Metrics
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CoreyLeath-code&theme=tokyonight&hide_border=true)
