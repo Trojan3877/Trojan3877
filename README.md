@@ -113,26 +113,6 @@ Data Engineering
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CoreyLeath-code&theme=tokyonight&hide_border=true)
 
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=transparent"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Trojan3877&theme=transparent"/>
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=github-compact&hide_border=true"/>
-</p>
-
 ## Education
 
 ### Master of Science — AI Engineering
