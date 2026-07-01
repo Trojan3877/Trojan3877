@@ -114,14 +114,10 @@ Data Engineering
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=transparent" alt="Corey's Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Trojan3877&theme=transparent" alt="Corey's Contribution Streak" />
-</p>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Trojan3877&theme=transparent" alt=
 
 ## ## Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojan3877&theme=github-compact)
-
-
-
 
 ## Education
 
